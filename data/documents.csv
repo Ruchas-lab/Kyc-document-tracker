@@ -1,0 +1,1059 @@
+client_id,doc_type,status,issue_date,expiry_date,requested_date,verified
+KYC-2001,Registry Extract (RCS/equiv.),RECEIVED,2026-09-07,,,True
+KYC-2001,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-21,,,True
+KYC-2001,Articles of Association,RECEIVED,2025-04-14,,,True
+KYC-2001,Director / Signatory ID,RECEIVED,2020-03-07,2030-03-05,,True
+KYC-2001,Authorised Signatory List,RECEIVED,2023-02-19,,,True
+KYC-2001,FATCA / CRS Self-Certification,RECEIVED,2023-09-14,,,True
+KYC-2001,Trust Deed / Foundation Charter,RECEIVED,2025-12-11,,,True
+KYC-2001,Proof of Registered Address,RECEIVED,2026-09-17,,,True
+KYC-2001,Source of Funds Declaration,RECEIVED,2023-06-17,,,True
+KYC-2002,Registry Extract (RCS/equiv.),RECEIVED,2026-09-19,,,True
+KYC-2002,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-16,,,True
+KYC-2002,Articles of Association,RECEIVED,2024-03-03,,,True
+KYC-2002,Director / Signatory ID,RECEIVED,2018-01-02,2027-12-31,,True
+KYC-2002,Authorised Signatory List,RECEIVED,2024-04-21,,,True
+KYC-2002,FATCA / CRS Self-Certification,RECEIVED,2023-07-30,,,True
+KYC-2002,Trust Deed / Foundation Charter,RECEIVED,2023-01-31,,,True
+KYC-2002,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2002,Source of Funds Declaration,REQUESTED,,,2026-09-26,False
+KYC-2003,Registry Extract (RCS/equiv.),RECEIVED,2026-08-31,,,True
+KYC-2003,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-27,,,True
+KYC-2003,Articles of Association,RECEIVED,2023-07-03,,,True
+KYC-2003,Director / Signatory ID,RECEIVED,2016-10-19,2026-10-17,,True
+KYC-2003,Authorised Signatory List,RECEIVED,2023-01-06,,,True
+KYC-2003,FATCA / CRS Self-Certification,RECEIVED,2024-04-20,,,True
+KYC-2003,Regulatory Licence / Authorisation,RECEIVED,2023-09-06,,,True
+KYC-2003,Proof of Registered Address,RECEIVED,2026-09-10,,,True
+KYC-2003,Audited Financial Statements,RECEIVED,2025-12-11,,,True
+KYC-2003,Source of Funds Declaration,RECEIVED,2026-07-20,,,True
+KYC-2004,Registry Extract (RCS/equiv.),RECEIVED,2026-09-17,,,True
+KYC-2004,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-28,,,True
+KYC-2004,Articles of Association,RECEIVED,2026-06-15,,,True
+KYC-2004,Director / Signatory ID,RECEIVED,2018-05-01,2028-04-28,,True
+KYC-2004,Authorised Signatory List,RECEIVED,2023-12-14,,,True
+KYC-2004,FATCA / CRS Self-Certification,RECEIVED,2023-03-28,,,True
+KYC-2004,Proof of Registered Address,RECEIVED,2026-08-09,,,True
+KYC-2004,Audited Financial Statements,RECEIVED,2025-05-11,,,True
+KYC-2004,Source of Funds Declaration,RECEIVED,2026-04-29,,,True
+KYC-2005,Registry Extract (RCS/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2005,UBO Register Extract (RBE/equiv.),RECEIVED,2026-07-28,,,True
+KYC-2005,Articles of Association,RECEIVED,2025-02-26,,,False
+KYC-2005,Director / Signatory ID,RECEIVED,2019-08-02,2029-07-30,,True
+KYC-2005,Authorised Signatory List,RECEIVED,2023-08-12,,,True
+KYC-2005,FATCA / CRS Self-Certification,RECEIVED,2022-10-26,,,True
+KYC-2005,Proof of Registered Address,RECEIVED,2026-08-15,,,True
+KYC-2005,Audited Financial Statements,RECEIVED,2026-09-19,,,True
+KYC-2005,Source of Funds Declaration,RECEIVED,2025-10-26,,,True
+KYC-2006,Registry Extract (RCS/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2006,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-16,,,True
+KYC-2006,Articles of Association,RECEIVED,2024-09-07,,,True
+KYC-2006,Director / Signatory ID,RECEIVED,2016-10-24,2026-10-22,,True
+KYC-2006,Authorised Signatory List,RECEIVED,2026-01-20,,,True
+KYC-2006,FATCA / CRS Self-Certification,RECEIVED,2026-06-23,,,True
+KYC-2006,Proof of Registered Address,RECEIVED,2026-09-17,,,True
+KYC-2006,Audited Financial Statements,RECEIVED,2026-08-15,,,True
+KYC-2007,Registry Extract (RCS/equiv.),RECEIVED,2026-08-13,,,True
+KYC-2007,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-12,,,True
+KYC-2007,Articles of Association,RECEIVED,2024-11-08,,,False
+KYC-2007,Director / Signatory ID,RECEIVED,2020-05-27,2030-05-25,,True
+KYC-2007,Authorised Signatory List,RECEIVED,2025-12-09,,,True
+KYC-2007,FATCA / CRS Self-Certification,RECEIVED,2026-04-08,,,True
+KYC-2007,Proof of Registered Address,RECEIVED,2026-09-01,,,True
+KYC-2007,Audited Financial Statements,RECEIVED,2025-07-08,,,True
+KYC-2008,Registry Extract (RCS/equiv.),RECEIVED,2026-09-08,,,True
+KYC-2008,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2008,Articles of Association,RECEIVED,2023-07-23,,,True
+KYC-2008,Director / Signatory ID,RECEIVED,2019-07-30,2029-07-27,,True
+KYC-2008,Authorised Signatory List,RECEIVED,2025-06-19,,,True
+KYC-2008,FATCA / CRS Self-Certification,RECEIVED,2025-07-19,,,False
+KYC-2008,Proof of Registered Address,RECEIVED,2026-08-21,,,True
+KYC-2008,Audited Financial Statements,RECEIVED,2026-04-11,,,True
+KYC-2009,Registry Extract (RCS/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2009,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-11,,,True
+KYC-2009,Articles of Association,RECEIVED,2023-01-31,,,True
+KYC-2009,Director / Signatory ID,RECEIVED,2017-08-26,2027-08-24,,True
+KYC-2009,Authorised Signatory List,RECEIVED,2025-04-05,,,True
+KYC-2009,FATCA / CRS Self-Certification,RECEIVED,2025-05-14,,,True
+KYC-2009,Proof of Registered Address,RECEIVED,2026-08-20,,,True
+KYC-2009,Audited Financial Statements,RECEIVED,2025-08-02,,,True
+KYC-2010,Registry Extract (RCS/equiv.),RECEIVED,2026-09-27,,,True
+KYC-2010,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-05,,,True
+KYC-2010,Articles of Association,RECEIVED,2024-03-03,,,True
+KYC-2010,Director / Signatory ID,RECEIVED,2019-11-26,2029-11-23,,True
+KYC-2010,Authorised Signatory List,RECEIVED,2025-01-25,,,True
+KYC-2010,FATCA / CRS Self-Certification,RECEIVED,2025-12-18,,,True
+KYC-2010,Trust Deed / Foundation Charter,RECEIVED,2023-07-01,,,True
+KYC-2010,Proof of Registered Address,RECEIVED,2026-09-03,,,True
+KYC-2010,Source of Funds Declaration,RECEIVED,2023-02-23,,,True
+KYC-2010,Source of Wealth Evidence,RECEIVED,2023-01-16,,,True
+KYC-2011,Registry Extract (RCS/equiv.),RECEIVED,2026-09-22,,,True
+KYC-2011,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-05,,,True
+KYC-2011,Articles of Association,RECEIVED,2025-12-01,,,True
+KYC-2011,Authorised Signatory List,RECEIVED,2024-09-20,,,True
+KYC-2011,FATCA / CRS Self-Certification,RECEIVED,2023-05-22,,,True
+KYC-2011,Proof of Registered Address,RECEIVED,2026-08-15,,,True
+KYC-2011,Audited Financial Statements,RECEIVED,2026-07-19,,,True
+KYC-2011,Source of Funds Declaration,RECEIVED,2025-10-06,,,True
+KYC-2011,Source of Wealth Evidence,RECEIVED,2023-10-21,,,True
+KYC-2012,Registry Extract (RCS/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2012,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2012,Articles of Association,RECEIVED,2025-05-16,,,True
+KYC-2012,Director / Signatory ID,RECEIVED,2017-07-07,2027-07-05,,True
+KYC-2012,Authorised Signatory List,RECEIVED,2025-02-20,,,True
+KYC-2012,FATCA / CRS Self-Certification,RECEIVED,2025-01-04,,,True
+KYC-2012,Trust Deed / Foundation Charter,RECEIVED,2025-11-01,,,True
+KYC-2012,Proof of Registered Address,RECEIVED,2026-08-09,,,True
+KYC-2012,Source of Funds Declaration,RECEIVED,2025-05-03,,,True
+KYC-2013,Registry Extract (RCS/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2013,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-18,,,True
+KYC-2013,Articles of Association,RECEIVED,2022-09-17,,,True
+KYC-2013,Director / Signatory ID,RECEIVED,2021-03-04,2031-03-02,,True
+KYC-2013,Authorised Signatory List,RECEIVED,2024-07-20,,,True
+KYC-2013,FATCA / CRS Self-Certification,RECEIVED,2025-08-23,,,True
+KYC-2013,Fund Prospectus / Offering Document,RECEIVED,2024-06-16,,,True
+KYC-2013,Regulatory Licence / Authorisation,RECEIVED,2025-04-27,,,True
+KYC-2013,Audited Financial Statements,RECEIVED,2026-06-23,,,True
+KYC-2014,Registry Extract (RCS/equiv.),RECEIVED,2026-09-27,,,True
+KYC-2014,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-06,,,True
+KYC-2014,Articles of Association,RECEIVED,2024-04-14,,,True
+KYC-2014,Director / Signatory ID,RECEIVED,2019-10-03,2029-09-30,,True
+KYC-2014,Authorised Signatory List,RECEIVED,2025-05-13,,,True
+KYC-2014,FATCA / CRS Self-Certification,RECEIVED,2024-05-22,,,True
+KYC-2014,Proof of Registered Address,RECEIVED,2026-09-18,,,True
+KYC-2014,Audited Financial Statements,RECEIVED,2025-09-13,,,True
+KYC-2015,Registry Extract (RCS/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2015,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-27,,,True
+KYC-2015,Articles of Association,RECEIVED,2026-06-12,,,True
+KYC-2015,Director / Signatory ID,RECEIVED,2019-08-10,2029-08-07,,True
+KYC-2015,Authorised Signatory List,REQUESTED,,,2026-08-11,False
+KYC-2015,FATCA / CRS Self-Certification,RECEIVED,2025-04-10,,,True
+KYC-2015,Proof of Registered Address,RECEIVED,2026-08-29,,,True
+KYC-2015,Audited Financial Statements,RECEIVED,2025-06-07,,,True
+KYC-2015,Source of Funds Declaration,RECEIVED,2024-11-17,,,True
+KYC-2015,Source of Wealth Evidence,RECEIVED,2025-07-18,,,True
+KYC-2016,Registry Extract (RCS/equiv.),RECEIVED,2026-08-08,,,True
+KYC-2016,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-23,,,True
+KYC-2016,Articles of Association,RECEIVED,2026-03-08,,,True
+KYC-2016,Director / Signatory ID,RECEIVED,2018-04-03,2028-03-31,,True
+KYC-2016,Authorised Signatory List,RECEIVED,2023-07-22,,,True
+KYC-2016,FATCA / CRS Self-Certification,RECEIVED,2023-09-26,,,True
+KYC-2016,Regulatory Licence / Authorisation,RECEIVED,2023-05-17,,,True
+KYC-2016,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2017,Registry Extract (RCS/equiv.),RECEIVED,2026-09-28,,,True
+KYC-2017,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2017,Articles of Association,RECEIVED,2026-04-21,,,True
+KYC-2017,Director / Signatory ID,RECEIVED,2019-11-07,2029-11-04,,True
+KYC-2017,Authorised Signatory List,RECEIVED,2024-04-23,,,True
+KYC-2017,FATCA / CRS Self-Certification,RECEIVED,2025-11-10,,,True
+KYC-2017,Proof of Registered Address,RECEIVED,2026-08-05,,,True
+KYC-2017,Audited Financial Statements,RECEIVED,2026-08-31,,,True
+KYC-2017,Source of Funds Declaration,RECEIVED,2024-06-19,,,True
+KYC-2018,Registry Extract (RCS/equiv.),RECEIVED,2026-08-18,,,True
+KYC-2018,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-19,,,True
+KYC-2018,Articles of Association,RECEIVED,2025-11-28,,,True
+KYC-2018,Director / Signatory ID,RECEIVED,2017-03-11,2027-03-09,,True
+KYC-2018,Authorised Signatory List,RECEIVED,2024-06-15,,,True
+KYC-2018,FATCA / CRS Self-Certification,RECEIVED,2024-04-09,,,True
+KYC-2018,Proof of Registered Address,RECEIVED,2026-08-29,,,True
+KYC-2018,Audited Financial Statements,RECEIVED,2025-06-24,,,True
+KYC-2018,Source of Funds Declaration,RECEIVED,2024-08-08,,,True
+KYC-2019,Registry Extract (RCS/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2019,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-29,,,True
+KYC-2019,Articles of Association,RECEIVED,2023-11-11,,,True
+KYC-2019,Director / Signatory ID,RECEIVED,2020-03-31,2030-03-29,,True
+KYC-2019,Authorised Signatory List,RECEIVED,2023-01-29,,,True
+KYC-2019,FATCA / CRS Self-Certification,RECEIVED,2025-12-15,,,True
+KYC-2019,Proof of Registered Address,RECEIVED,2026-09-05,,,True
+KYC-2019,Audited Financial Statements,RECEIVED,2026-07-21,,,True
+KYC-2019,Source of Funds Declaration,RECEIVED,2024-09-08,,,True
+KYC-2020,Registry Extract (RCS/equiv.),RECEIVED,2026-07-28,,,True
+KYC-2020,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-28,,,True
+KYC-2020,Articles of Association,RECEIVED,2026-07-05,,,True
+KYC-2020,Director / Signatory ID,RECEIVED,2018-03-23,2028-03-20,,True
+KYC-2020,Authorised Signatory List,RECEIVED,2024-01-03,,,True
+KYC-2020,FATCA / CRS Self-Certification,RECEIVED,2024-08-16,,,True
+KYC-2020,Regulatory Licence / Authorisation,RECEIVED,2024-10-26,,,True
+KYC-2020,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2020,Audited Financial Statements,RECEIVED,2026-04-01,,,True
+KYC-2021,Registry Extract (RCS/equiv.),RECEIVED,2026-08-24,,,True
+KYC-2021,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-13,,,True
+KYC-2021,Articles of Association,RECEIVED,2023-01-17,,,True
+KYC-2021,Director / Signatory ID,RECEIVED,2019-06-21,2029-06-18,,True
+KYC-2021,Authorised Signatory List,RECEIVED,2024-09-13,,,True
+KYC-2021,FATCA / CRS Self-Certification,RECEIVED,2025-08-30,,,False
+KYC-2021,Fund Prospectus / Offering Document,RECEIVED,2024-01-14,,,True
+KYC-2021,Regulatory Licence / Authorisation,RECEIVED,2022-11-17,,,True
+KYC-2021,Audited Financial Statements,RECEIVED,2026-07-26,,,True
+KYC-2022,Registry Extract (RCS/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2022,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2022,Articles of Association,RECEIVED,2024-12-26,,,True
+KYC-2022,Director / Signatory ID,RECEIVED,2017-10-09,2027-10-07,,True
+KYC-2022,Authorised Signatory List,RECEIVED,2024-04-23,,,True
+KYC-2022,FATCA / CRS Self-Certification,REQUESTED,,,2026-09-05,False
+KYC-2022,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2022,Audited Financial Statements,RECEIVED,2025-05-25,,,True
+KYC-2022,Source of Funds Declaration,RECEIVED,2025-12-10,,,True
+KYC-2023,Registry Extract (RCS/equiv.),RECEIVED,2026-09-05,,,True
+KYC-2023,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-24,,,True
+KYC-2023,Articles of Association,RECEIVED,2025-12-17,,,True
+KYC-2023,Director / Signatory ID,RECEIVED,2021-06-02,2031-05-31,,True
+KYC-2023,Authorised Signatory List,RECEIVED,2025-04-15,,,True
+KYC-2023,FATCA / CRS Self-Certification,RECEIVED,2024-03-04,,,True
+KYC-2023,Proof of Registered Address,RECEIVED,2026-08-07,,,True
+KYC-2023,Audited Financial Statements,RECEIVED,2026-05-22,,,True
+KYC-2023,Source of Funds Declaration,RECEIVED,2026-04-16,,,True
+KYC-2024,Registry Extract (RCS/equiv.),RECEIVED,2026-09-06,,,True
+KYC-2024,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2024,Articles of Association,RECEIVED,2023-09-13,,,True
+KYC-2024,Director / Signatory ID,RECEIVED,2021-08-13,2031-08-11,,True
+KYC-2024,Authorised Signatory List,RECEIVED,2024-07-10,,,True
+KYC-2024,FATCA / CRS Self-Certification,RECEIVED,2025-08-11,,,True
+KYC-2024,Proof of Registered Address,RECEIVED,2026-09-03,,,True
+KYC-2024,Audited Financial Statements,RECEIVED,2026-06-19,,,True
+KYC-2024,Source of Funds Declaration,RECEIVED,2026-02-07,,,True
+KYC-2025,Registry Extract (RCS/equiv.),RECEIVED,2026-08-27,,,True
+KYC-2025,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2025,Articles of Association,RECEIVED,2023-05-08,,,True
+KYC-2025,Director / Signatory ID,RECEIVED,2020-10-20,2030-10-18,,True
+KYC-2025,Authorised Signatory List,RECEIVED,2026-07-20,,,True
+KYC-2025,FATCA / CRS Self-Certification,RECEIVED,2025-10-24,,,True
+KYC-2025,Proof of Registered Address,RECEIVED,2026-08-12,,,True
+KYC-2025,Audited Financial Statements,RECEIVED,2026-04-04,,,True
+KYC-2025,Source of Funds Declaration,RECEIVED,2024-06-01,,,True
+KYC-2026,Registry Extract (RCS/equiv.),RECEIVED,2026-08-29,,,True
+KYC-2026,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2026,Articles of Association,RECEIVED,2024-05-16,,,True
+KYC-2026,Director / Signatory ID,RECEIVED,2019-05-21,2029-05-18,,True
+KYC-2026,Authorised Signatory List,RECEIVED,2026-04-18,,,True
+KYC-2026,FATCA / CRS Self-Certification,RECEIVED,2023-06-29,,,True
+KYC-2026,Fund Prospectus / Offering Document,RECEIVED,2024-05-07,,,True
+KYC-2026,Regulatory Licence / Authorisation,RECEIVED,2024-05-22,,,True
+KYC-2026,Audited Financial Statements,RECEIVED,2026-04-29,,,True
+KYC-2027,Registry Extract (RCS/equiv.),RECEIVED,2026-08-13,,,True
+KYC-2027,UBO Register Extract (RBE/equiv.),RECEIVED,2026-07-31,,,True
+KYC-2027,Articles of Association,RECEIVED,2026-03-13,,,True
+KYC-2027,Director / Signatory ID,RECEIVED,2020-09-24,2030-09-22,,True
+KYC-2027,Authorised Signatory List,RECEIVED,2026-01-16,,,True
+KYC-2027,FATCA / CRS Self-Certification,RECEIVED,2026-06-02,,,True
+KYC-2027,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2027,Audited Financial Statements,RECEIVED,2025-05-22,,,True
+KYC-2028,Registry Extract (RCS/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2028,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-25,,,True
+KYC-2028,Articles of Association,RECEIVED,2026-03-03,,,True
+KYC-2028,Director / Signatory ID,RECEIVED,2017-04-28,2027-04-26,,True
+KYC-2028,Authorised Signatory List,RECEIVED,2023-06-12,,,True
+KYC-2028,FATCA / CRS Self-Certification,RECEIVED,2023-09-06,,,True
+KYC-2028,Regulatory Licence / Authorisation,RECEIVED,2026-01-16,,,True
+KYC-2028,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2028,Audited Financial Statements,RECEIVED,2025-06-22,,,True
+KYC-2029,Registry Extract (RCS/equiv.),RECEIVED,2026-09-20,,,True
+KYC-2029,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-04,,,True
+KYC-2029,Director / Signatory ID,RECEIVED,2019-08-01,2029-07-29,,True
+KYC-2029,Authorised Signatory List,RECEIVED,2025-10-16,,,True
+KYC-2029,FATCA / CRS Self-Certification,RECEIVED,2025-03-02,,,True
+KYC-2029,Proof of Registered Address,RECEIVED,2026-08-25,,,True
+KYC-2029,Audited Financial Statements,RECEIVED,2026-02-11,,,True
+KYC-2030,Registry Extract (RCS/equiv.),RECEIVED,2026-08-13,,,True
+KYC-2030,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-16,,,True
+KYC-2030,Articles of Association,RECEIVED,2025-12-08,,,True
+KYC-2030,Director / Signatory ID,RECEIVED,2018-11-28,2028-11-25,,True
+KYC-2030,Authorised Signatory List,RECEIVED,2025-10-18,,,True
+KYC-2030,FATCA / CRS Self-Certification,RECEIVED,2023-09-28,,,True
+KYC-2030,Regulatory Licence / Authorisation,RECEIVED,2025-05-05,,,True
+KYC-2030,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2030,Audited Financial Statements,RECEIVED,2025-09-01,,,True
+KYC-2031,Registry Extract (RCS/equiv.),RECEIVED,2026-08-12,,,True
+KYC-2031,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-31,,,True
+KYC-2031,Articles of Association,RECEIVED,2024-09-04,,,True
+KYC-2031,Director / Signatory ID,RECEIVED,2021-02-17,2031-02-15,,True
+KYC-2031,Authorised Signatory List,RECEIVED,2024-07-14,,,True
+KYC-2031,FATCA / CRS Self-Certification,RECEIVED,2023-07-28,,,True
+KYC-2031,Proof of Registered Address,RECEIVED,2026-08-24,,,True
+KYC-2031,Audited Financial Statements,RECEIVED,2026-03-12,,,True
+KYC-2032,Registry Extract (RCS/equiv.),RECEIVED,2026-08-12,,,True
+KYC-2032,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2032,Articles of Association,RECEIVED,2023-11-27,,,True
+KYC-2032,Director / Signatory ID,RECEIVED,2019-04-15,2029-04-12,,True
+KYC-2032,Authorised Signatory List,RECEIVED,2025-10-09,,,True
+KYC-2032,FATCA / CRS Self-Certification,RECEIVED,2023-06-13,,,True
+KYC-2032,Regulatory Licence / Authorisation,RECEIVED,2024-05-02,,,True
+KYC-2032,Proof of Registered Address,RECEIVED,2026-09-17,,,True
+KYC-2032,Audited Financial Statements,RECEIVED,2026-08-30,,,False
+KYC-2033,Registry Extract (RCS/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2033,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-19,,,True
+KYC-2033,Articles of Association,RECEIVED,2022-10-02,,,True
+KYC-2033,Director / Signatory ID,RECEIVED,2019-02-08,2029-02-05,,True
+KYC-2033,Authorised Signatory List,RECEIVED,2025-07-07,,,True
+KYC-2033,FATCA / CRS Self-Certification,RECEIVED,2026-03-03,,,True
+KYC-2033,Proof of Registered Address,RECEIVED,2026-09-13,,,True
+KYC-2033,Audited Financial Statements,RECEIVED,2026-07-28,,,True
+KYC-2034,Registry Extract (RCS/equiv.),RECEIVED,2026-09-06,,,True
+KYC-2034,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-20,,,True
+KYC-2034,Articles of Association,RECEIVED,2023-04-09,,,True
+KYC-2034,Director / Signatory ID,RECEIVED,2017-09-09,2027-09-07,,False
+KYC-2034,Authorised Signatory List,RECEIVED,2025-09-13,,,False
+KYC-2034,FATCA / CRS Self-Certification,RECEIVED,2024-06-16,,,True
+KYC-2034,Fund Prospectus / Offering Document,RECEIVED,2025-01-07,,,True
+KYC-2034,Regulatory Licence / Authorisation,RECEIVED,2026-07-01,,,True
+KYC-2034,Audited Financial Statements,RECEIVED,2025-07-29,,,True
+KYC-2035,Registry Extract (RCS/equiv.),RECEIVED,2026-08-05,,,True
+KYC-2035,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-08,,,True
+KYC-2035,Articles of Association,RECEIVED,2023-03-15,,,True
+KYC-2035,Director / Signatory ID,RECEIVED,2021-01-26,2031-01-24,,True
+KYC-2035,Authorised Signatory List,RECEIVED,2024-07-02,,,True
+KYC-2035,FATCA / CRS Self-Certification,RECEIVED,2024-06-01,,,True
+KYC-2035,Proof of Registered Address,RECEIVED,2026-09-14,,,True
+KYC-2035,Audited Financial Statements,RECEIVED,2026-04-28,,,True
+KYC-2035,Source of Funds Declaration,RECEIVED,2025-06-17,,,True
+KYC-2035,Source of Wealth Evidence,RECEIVED,2023-07-04,,,True
+KYC-2036,Registry Extract (RCS/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2036,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-04,,,True
+KYC-2036,Articles of Association,RECEIVED,2023-12-31,,,True
+KYC-2036,Director / Signatory ID,RECEIVED,2019-04-09,2029-04-06,,True
+KYC-2036,Authorised Signatory List,RECEIVED,2025-10-08,,,True
+KYC-2036,FATCA / CRS Self-Certification,RECEIVED,2024-11-06,,,True
+KYC-2036,Proof of Registered Address,RECEIVED,2026-09-16,,,True
+KYC-2036,Audited Financial Statements,REQUESTED,,,2026-09-21,False
+KYC-2036,Source of Funds Declaration,RECEIVED,2024-11-30,,,True
+KYC-2036,Source of Wealth Evidence,RECEIVED,2024-08-06,,,True
+KYC-2037,Registry Extract (RCS/equiv.),RECEIVED,2026-09-11,,,True
+KYC-2037,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-25,,,True
+KYC-2037,Articles of Association,RECEIVED,2024-06-03,,,True
+KYC-2037,Director / Signatory ID,RECEIVED,2019-11-08,2029-11-05,,True
+KYC-2037,Authorised Signatory List,RECEIVED,2025-01-28,,,True
+KYC-2037,FATCA / CRS Self-Certification,RECEIVED,2025-01-18,,,True
+KYC-2037,Fund Prospectus / Offering Document,RECEIVED,2024-07-01,,,True
+KYC-2037,Regulatory Licence / Authorisation,RECEIVED,2025-01-22,,,True
+KYC-2037,Audited Financial Statements,RECEIVED,2026-01-24,,,True
+KYC-2038,Registry Extract (RCS/equiv.),RECEIVED,2026-08-19,,,True
+KYC-2038,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2038,Articles of Association,RECEIVED,2025-06-23,,,True
+KYC-2038,Director / Signatory ID,RECEIVED,2017-02-08,2027-02-06,,True
+KYC-2038,Authorised Signatory List,RECEIVED,2023-07-24,,,True
+KYC-2038,FATCA / CRS Self-Certification,RECEIVED,2024-06-23,,,True
+KYC-2038,Regulatory Licence / Authorisation,RECEIVED,2025-08-29,,,True
+KYC-2038,Proof of Registered Address,RECEIVED,2026-08-25,,,True
+KYC-2038,Audited Financial Statements,RECEIVED,2026-01-24,,,True
+KYC-2038,Source of Funds Declaration,RECEIVED,2024-07-28,,,True
+KYC-2039,Registry Extract (RCS/equiv.),RECEIVED,2026-09-16,,,True
+KYC-2039,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2039,Articles of Association,RECEIVED,2026-01-16,,,True
+KYC-2039,Director / Signatory ID,RECEIVED,2018-03-03,2028-02-29,,True
+KYC-2039,FATCA / CRS Self-Certification,RECEIVED,2025-09-05,,,True
+KYC-2039,Proof of Registered Address,RECEIVED,2026-08-23,,,True
+KYC-2039,Audited Financial Statements,RECEIVED,2026-06-16,,,True
+KYC-2040,Registry Extract (RCS/equiv.),RECEIVED,2026-08-22,,,True
+KYC-2040,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-09,,,True
+KYC-2040,Articles of Association,RECEIVED,2023-09-02,,,True
+KYC-2040,Director / Signatory ID,RECEIVED,2021-08-16,2031-08-14,,True
+KYC-2040,Authorised Signatory List,RECEIVED,2022-12-11,,,True
+KYC-2040,FATCA / CRS Self-Certification,RECEIVED,2023-07-31,,,True
+KYC-2040,Proof of Registered Address,RECEIVED,2026-08-21,,,True
+KYC-2040,Audited Financial Statements,RECEIVED,2025-06-07,,,True
+KYC-2041,Registry Extract (RCS/equiv.),RECEIVED,2026-09-05,,,True
+KYC-2041,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-05,,,True
+KYC-2041,Articles of Association,RECEIVED,2022-11-27,,,True
+KYC-2041,Director / Signatory ID,RECEIVED,2020-02-16,2030-02-13,,True
+KYC-2041,Authorised Signatory List,RECEIVED,2025-10-09,,,True
+KYC-2041,FATCA / CRS Self-Certification,RECEIVED,2022-12-25,,,True
+KYC-2041,Proof of Registered Address,RECEIVED,2026-08-30,,,False
+KYC-2041,Audited Financial Statements,RECEIVED,2025-07-21,,,True
+KYC-2042,Registry Extract (RCS/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2042,Articles of Association,RECEIVED,2024-10-06,,,True
+KYC-2042,Director / Signatory ID,RECEIVED,2019-11-21,2029-11-18,,True
+KYC-2042,Authorised Signatory List,RECEIVED,2025-10-14,,,True
+KYC-2042,FATCA / CRS Self-Certification,RECEIVED,2022-12-10,,,True
+KYC-2042,Fund Prospectus / Offering Document,REQUESTED,,,2026-09-26,False
+KYC-2042,Regulatory Licence / Authorisation,RECEIVED,2024-04-28,,,True
+KYC-2042,Audited Financial Statements,RECEIVED,2025-07-25,,,True
+KYC-2042,Source of Funds Declaration,RECEIVED,2024-10-10,,,False
+KYC-2043,Registry Extract (RCS/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2043,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-20,,,True
+KYC-2043,Articles of Association,RECEIVED,2025-04-15,,,True
+KYC-2043,Director / Signatory ID,RECEIVED,2018-11-06,2028-11-03,,True
+KYC-2043,Authorised Signatory List,RECEIVED,2025-10-20,,,True
+KYC-2043,FATCA / CRS Self-Certification,RECEIVED,2023-04-18,,,True
+KYC-2043,Proof of Registered Address,RECEIVED,2026-09-13,,,True
+KYC-2043,Audited Financial Statements,RECEIVED,2026-01-02,,,True
+KYC-2044,Registry Extract (RCS/equiv.),RECEIVED,2026-09-21,,,True
+KYC-2044,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-18,,,True
+KYC-2044,Articles of Association,RECEIVED,2026-02-25,,,True
+KYC-2044,Director / Signatory ID,RECEIVED,2021-01-02,2030-12-31,,True
+KYC-2044,Authorised Signatory List,RECEIVED,2026-05-05,,,True
+KYC-2044,FATCA / CRS Self-Certification,RECEIVED,2023-05-10,,,True
+KYC-2044,Fund Prospectus / Offering Document,RECEIVED,2025-06-05,,,True
+KYC-2044,Regulatory Licence / Authorisation,RECEIVED,2022-12-17,,,True
+KYC-2044,Audited Financial Statements,RECEIVED,2025-07-08,,,True
+KYC-2045,Registry Extract (RCS/equiv.),RECEIVED,2026-08-30,,,True
+KYC-2045,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-06,,,True
+KYC-2045,Articles of Association,RECEIVED,2026-05-24,,,True
+KYC-2045,Director / Signatory ID,RECEIVED,2019-05-29,2029-05-26,,True
+KYC-2045,Authorised Signatory List,RECEIVED,2025-05-11,,,True
+KYC-2045,FATCA / CRS Self-Certification,RECEIVED,2025-09-06,,,True
+KYC-2045,Proof of Registered Address,RECEIVED,2026-09-28,,,True
+KYC-2045,Audited Financial Statements,RECEIVED,2026-01-17,,,True
+KYC-2045,Source of Funds Declaration,RECEIVED,2025-01-05,,,False
+KYC-2046,Registry Extract (RCS/equiv.),RECEIVED,2026-08-07,,,True
+KYC-2046,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-05,,,True
+KYC-2046,Articles of Association,RECEIVED,2023-06-02,,,True
+KYC-2046,Director / Signatory ID,RECEIVED,2016-10-26,2026-10-24,,True
+KYC-2046,Authorised Signatory List,RECEIVED,2025-07-01,,,True
+KYC-2046,FATCA / CRS Self-Certification,REQUESTED,,,2026-08-16,False
+KYC-2046,Proof of Registered Address,RECEIVED,2026-09-10,,,True
+KYC-2046,Audited Financial Statements,RECEIVED,2026-07-01,,,True
+KYC-2047,Registry Extract (RCS/equiv.),RECEIVED,2026-08-23,,,True
+KYC-2047,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2047,Articles of Association,RECEIVED,2024-06-28,,,True
+KYC-2047,Director / Signatory ID,RECEIVED,2020-06-12,2030-06-10,,True
+KYC-2047,Authorised Signatory List,RECEIVED,2024-09-03,,,True
+KYC-2047,FATCA / CRS Self-Certification,RECEIVED,2022-11-11,,,True
+KYC-2047,Proof of Registered Address,RECEIVED,2026-09-28,,,True
+KYC-2047,Audited Financial Statements,RECEIVED,2026-08-06,,,True
+KYC-2048,Registry Extract (RCS/equiv.),RECEIVED,2026-09-04,,,True
+KYC-2048,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-19,,,True
+KYC-2048,Articles of Association,RECEIVED,2025-10-12,,,True
+KYC-2048,Director / Signatory ID,RECEIVED,2017-05-15,2027-05-13,,True
+KYC-2048,Authorised Signatory List,RECEIVED,2022-12-28,,,True
+KYC-2048,FATCA / CRS Self-Certification,RECEIVED,2024-07-09,,,True
+KYC-2048,Fund Prospectus / Offering Document,RECEIVED,2025-07-13,,,True
+KYC-2048,Regulatory Licence / Authorisation,RECEIVED,2022-09-03,,,True
+KYC-2048,Audited Financial Statements,RECEIVED,2026-01-25,,,True
+KYC-2048,Source of Funds Declaration,RECEIVED,2024-12-19,,,True
+KYC-2048,Source of Wealth Evidence,RECEIVED,2023-07-11,,,True
+KYC-2049,Registry Extract (RCS/equiv.),RECEIVED,2026-08-27,,,True
+KYC-2049,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-20,,,True
+KYC-2049,Articles of Association,RECEIVED,2025-12-12,,,True
+KYC-2049,Director / Signatory ID,RECEIVED,2019-09-22,2029-09-19,,True
+KYC-2049,Authorised Signatory List,REQUESTED,,,2026-08-19,False
+KYC-2049,FATCA / CRS Self-Certification,RECEIVED,2024-06-22,,,True
+KYC-2049,Regulatory Licence / Authorisation,RECEIVED,2025-07-28,,,True
+KYC-2049,Proof of Registered Address,RECEIVED,2026-08-07,,,True
+KYC-2049,Audited Financial Statements,RECEIVED,2026-07-27,,,True
+KYC-2050,Registry Extract (RCS/equiv.),RECEIVED,2026-09-07,,,True
+KYC-2050,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-16,,,True
+KYC-2050,Articles of Association,RECEIVED,2022-11-02,,,False
+KYC-2050,Director / Signatory ID,RECEIVED,2017-12-19,2027-12-17,,True
+KYC-2050,Authorised Signatory List,RECEIVED,2022-12-21,,,True
+KYC-2050,FATCA / CRS Self-Certification,RECEIVED,2024-07-23,,,True
+KYC-2050,Proof of Registered Address,RECEIVED,2026-04-08,,,True
+KYC-2050,Audited Financial Statements,RECEIVED,2025-11-11,,,True
+KYC-2050,Source of Funds Declaration,RECEIVED,2023-08-10,,,True
+KYC-2050,Source of Wealth Evidence,RECEIVED,2024-12-30,,,True
+KYC-2051,Registry Extract (RCS/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2051,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-04,,,True
+KYC-2051,Articles of Association,RECEIVED,2025-11-01,,,True
+KYC-2051,Director / Signatory ID,RECEIVED,2019-07-17,2029-07-14,,True
+KYC-2051,Authorised Signatory List,RECEIVED,2023-05-26,,,True
+KYC-2051,FATCA / CRS Self-Certification,RECEIVED,2024-05-24,,,True
+KYC-2051,Proof of Registered Address,RECEIVED,2026-09-04,,,True
+KYC-2051,Audited Financial Statements,RECEIVED,2025-04-21,,,True
+KYC-2051,Source of Funds Declaration,RECEIVED,2023-11-30,,,True
+KYC-2052,Registry Extract (RCS/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2052,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-16,,,False
+KYC-2052,Articles of Association,RECEIVED,2024-04-03,,,True
+KYC-2052,Director / Signatory ID,RECEIVED,2018-12-05,2028-12-02,,True
+KYC-2052,Authorised Signatory List,RECEIVED,2024-01-01,,,True
+KYC-2052,FATCA / CRS Self-Certification,RECEIVED,2025-10-01,,,True
+KYC-2052,Fund Prospectus / Offering Document,RECEIVED,2024-02-03,,,True
+KYC-2052,Regulatory Licence / Authorisation,RECEIVED,2026-04-01,,,True
+KYC-2052,Audited Financial Statements,RECEIVED,2026-05-19,,,True
+KYC-2053,Registry Extract (RCS/equiv.),RECEIVED,2026-09-29,,,True
+KYC-2053,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-14,,,True
+KYC-2053,Articles of Association,RECEIVED,2025-10-07,,,True
+KYC-2053,Director / Signatory ID,RECEIVED,2019-06-07,2029-06-04,,True
+KYC-2053,Authorised Signatory List,RECEIVED,2024-04-30,,,True
+KYC-2053,FATCA / CRS Self-Certification,RECEIVED,2024-07-28,,,True
+KYC-2053,Proof of Registered Address,RECEIVED,2026-05-01,,,True
+KYC-2053,Audited Financial Statements,RECEIVED,2025-04-11,,,True
+KYC-2053,Source of Funds Declaration,RECEIVED,2024-08-08,,,True
+KYC-2054,Registry Extract (RCS/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2054,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-27,,,True
+KYC-2054,Articles of Association,RECEIVED,2024-12-28,,,True
+KYC-2054,Director / Signatory ID,RECEIVED,2017-07-22,2027-07-20,,True
+KYC-2054,Authorised Signatory List,RECEIVED,2023-07-22,,,True
+KYC-2054,FATCA / CRS Self-Certification,RECEIVED,2024-09-05,,,True
+KYC-2054,Fund Prospectus / Offering Document,RECEIVED,2024-12-27,,,True
+KYC-2054,Regulatory Licence / Authorisation,RECEIVED,2025-11-11,,,True
+KYC-2054,Audited Financial Statements,RECEIVED,2026-04-14,,,True
+KYC-2054,Source of Funds Declaration,RECEIVED,2023-02-26,,,True
+KYC-2055,Registry Extract (RCS/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2055,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-27,,,True
+KYC-2055,Articles of Association,RECEIVED,2024-09-19,,,True
+KYC-2055,Director / Signatory ID,RECEIVED,2020-03-09,2030-03-07,,True
+KYC-2055,Authorised Signatory List,RECEIVED,2023-11-14,,,True
+KYC-2055,FATCA / CRS Self-Certification,RECEIVED,2026-07-26,,,True
+KYC-2055,Regulatory Licence / Authorisation,RECEIVED,2024-05-02,,,True
+KYC-2055,Proof of Registered Address,RECEIVED,2026-08-06,,,True
+KYC-2055,Audited Financial Statements,RECEIVED,2026-09-19,,,True
+KYC-2056,Registry Extract (RCS/equiv.),RECEIVED,2026-08-10,,,True
+KYC-2056,UBO Register Extract (RBE/equiv.),RECEIVED,2026-07-08,,,True
+KYC-2056,Articles of Association,RECEIVED,2024-11-14,,,True
+KYC-2056,Director / Signatory ID,RECEIVED,2018-08-07,2028-08-04,,True
+KYC-2056,Authorised Signatory List,RECEIVED,2026-06-23,,,True
+KYC-2056,FATCA / CRS Self-Certification,RECEIVED,2025-02-06,,,True
+KYC-2056,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2056,Audited Financial Statements,RECEIVED,2026-09-08,,,True
+KYC-2056,Source of Funds Declaration,RECEIVED,2025-01-02,,,True
+KYC-2056,Source of Wealth Evidence,RECEIVED,2024-04-14,,,True
+KYC-2057,Registry Extract (RCS/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2057,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2057,Articles of Association,RECEIVED,2025-06-09,,,True
+KYC-2057,Director / Signatory ID,RECEIVED,2018-11-21,2028-11-18,,True
+KYC-2057,Authorised Signatory List,RECEIVED,2025-12-23,,,True
+KYC-2057,FATCA / CRS Self-Certification,RECEIVED,2024-11-28,,,True
+KYC-2057,Proof of Registered Address,RECEIVED,2026-08-26,,,True
+KYC-2057,Audited Financial Statements,RECEIVED,2026-01-02,,,True
+KYC-2058,Registry Extract (RCS/equiv.),RECEIVED,2026-09-08,,,True
+KYC-2058,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2058,Director / Signatory ID,RECEIVED,2017-06-30,2027-06-28,,True
+KYC-2058,Authorised Signatory List,RECEIVED,2024-02-28,,,True
+KYC-2058,FATCA / CRS Self-Certification,REQUESTED,,,2026-09-24,False
+KYC-2058,Fund Prospectus / Offering Document,RECEIVED,2023-03-05,,,True
+KYC-2058,Regulatory Licence / Authorisation,RECEIVED,2024-08-29,,,True
+KYC-2058,Audited Financial Statements,RECEIVED,2026-07-25,,,True
+KYC-2059,Registry Extract (RCS/equiv.),RECEIVED,2026-08-23,,,True
+KYC-2059,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-06,,,True
+KYC-2059,Articles of Association,RECEIVED,2024-10-03,,,True
+KYC-2059,Director / Signatory ID,RECEIVED,2020-09-16,2030-09-14,,True
+KYC-2059,Authorised Signatory List,RECEIVED,2025-07-28,,,True
+KYC-2059,FATCA / CRS Self-Certification,RECEIVED,2026-01-20,,,False
+KYC-2059,Fund Prospectus / Offering Document,RECEIVED,2024-06-11,,,True
+KYC-2059,Regulatory Licence / Authorisation,RECEIVED,2026-02-20,,,True
+KYC-2059,Audited Financial Statements,RECEIVED,2026-03-21,,,True
+KYC-2060,Registry Extract (RCS/equiv.),RECEIVED,2026-09-14,,,True
+KYC-2060,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-15,,,True
+KYC-2060,Articles of Association,RECEIVED,2026-01-04,,,True
+KYC-2060,Director / Signatory ID,RECEIVED,2016-10-09,2026-10-07,,True
+KYC-2060,Authorised Signatory List,RECEIVED,2024-08-31,,,True
+KYC-2060,Proof of Registered Address,RECEIVED,2026-09-18,,,True
+KYC-2060,Audited Financial Statements,RECEIVED,2025-11-30,,,True
+KYC-2060,Source of Funds Declaration,RECEIVED,2022-12-27,,,True
+KYC-2061,Registry Extract (RCS/equiv.),RECEIVED,2026-08-30,,,True
+KYC-2061,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-22,,,True
+KYC-2061,Articles of Association,RECEIVED,2024-05-25,,,True
+KYC-2061,Director / Signatory ID,RECEIVED,2020-09-24,2030-09-22,,True
+KYC-2061,Authorised Signatory List,RECEIVED,2024-12-26,,,True
+KYC-2061,FATCA / CRS Self-Certification,RECEIVED,2026-05-21,,,True
+KYC-2061,Proof of Registered Address,RECEIVED,2026-08-30,,,True
+KYC-2061,Audited Financial Statements,RECEIVED,2026-06-09,,,True
+KYC-2061,Source of Funds Declaration,RECEIVED,2024-07-18,,,True
+KYC-2062,Registry Extract (RCS/equiv.),RECEIVED,2026-08-12,,,True
+KYC-2062,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-25,,,True
+KYC-2062,Articles of Association,RECEIVED,2025-12-18,,,True
+KYC-2062,Director / Signatory ID,RECEIVED,2020-01-02,2029-12-30,,True
+KYC-2062,Authorised Signatory List,RECEIVED,2024-07-25,,,True
+KYC-2062,FATCA / CRS Self-Certification,RECEIVED,2025-08-22,,,True
+KYC-2062,Fund Prospectus / Offering Document,RECEIVED,2023-06-13,,,True
+KYC-2062,Regulatory Licence / Authorisation,RECEIVED,2024-08-31,,,True
+KYC-2062,Audited Financial Statements,RECEIVED,2025-12-11,,,True
+KYC-2062,Source of Funds Declaration,RECEIVED,2023-03-16,,,True
+KYC-2062,Source of Wealth Evidence,RECEIVED,2024-11-01,,,True
+KYC-2063,Registry Extract (RCS/equiv.),RECEIVED,2026-08-14,,,False
+KYC-2063,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2063,Articles of Association,RECEIVED,2024-06-14,,,True
+KYC-2063,Director / Signatory ID,RECEIVED,2017-06-06,2027-06-04,,True
+KYC-2063,Authorised Signatory List,RECEIVED,2023-07-08,,,True
+KYC-2063,FATCA / CRS Self-Certification,RECEIVED,2025-02-20,,,True
+KYC-2063,Proof of Registered Address,RECEIVED,2026-09-14,,,True
+KYC-2063,Audited Financial Statements,RECEIVED,2025-10-01,,,True
+KYC-2064,Registry Extract (RCS/equiv.),RECEIVED,2026-09-05,,,True
+KYC-2064,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-06,,,True
+KYC-2064,Articles of Association,RECEIVED,2026-01-07,,,True
+KYC-2064,Director / Signatory ID,RECEIVED,2018-01-12,2028-01-10,,True
+KYC-2064,Authorised Signatory List,RECEIVED,2024-07-31,,,True
+KYC-2064,FATCA / CRS Self-Certification,RECEIVED,2025-04-26,,,True
+KYC-2064,Proof of Registered Address,RECEIVED,2026-09-26,,,True
+KYC-2064,Audited Financial Statements,RECEIVED,2026-04-24,,,True
+KYC-2065,Registry Extract (RCS/equiv.),RECEIVED,2026-08-21,,,True
+KYC-2065,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-12,,,True
+KYC-2065,Articles of Association,RECEIVED,2024-12-08,,,True
+KYC-2065,Director / Signatory ID,RECEIVED,2020-03-01,2030-02-27,,True
+KYC-2065,Authorised Signatory List,RECEIVED,2024-06-08,,,True
+KYC-2065,FATCA / CRS Self-Certification,RECEIVED,2023-04-16,,,True
+KYC-2065,Proof of Registered Address,RECEIVED,2026-09-04,,,True
+KYC-2065,Audited Financial Statements,RECEIVED,2026-09-23,,,True
+KYC-2066,Registry Extract (RCS/equiv.),RECEIVED,2026-08-29,,,True
+KYC-2066,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-13,,,True
+KYC-2066,Articles of Association,RECEIVED,2025-06-23,,,True
+KYC-2066,Director / Signatory ID,RECEIVED,2019-02-26,2029-02-23,,True
+KYC-2066,Authorised Signatory List,RECEIVED,2024-07-24,,,True
+KYC-2066,FATCA / CRS Self-Certification,RECEIVED,2025-09-12,,,True
+KYC-2066,Trust Deed / Foundation Charter,RECEIVED,2025-05-19,,,True
+KYC-2066,Proof of Registered Address,RECEIVED,2026-08-21,,,False
+KYC-2066,Source of Funds Declaration,RECEIVED,2024-11-20,,,True
+KYC-2067,Registry Extract (RCS/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2067,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-07,,,True
+KYC-2067,Articles of Association,RECEIVED,2026-01-05,,,True
+KYC-2067,Director / Signatory ID,RECEIVED,2016-04-21,2026-04-19,,True
+KYC-2067,Authorised Signatory List,RECEIVED,2023-08-17,,,True
+KYC-2067,FATCA / CRS Self-Certification,RECEIVED,2023-11-09,,,True
+KYC-2067,Proof of Registered Address,RECEIVED,2026-09-28,,,True
+KYC-2067,Audited Financial Statements,RECEIVED,2025-05-04,,,True
+KYC-2068,Registry Extract (RCS/equiv.),RECEIVED,2026-04-25,,,True
+KYC-2068,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-06,,,True
+KYC-2068,Articles of Association,RECEIVED,2023-10-02,,,True
+KYC-2068,Director / Signatory ID,RECEIVED,2019-01-09,2029-01-06,,True
+KYC-2068,Authorised Signatory List,RECEIVED,2024-01-26,,,True
+KYC-2068,FATCA / CRS Self-Certification,RECEIVED,2024-01-01,,,True
+KYC-2068,Trust Deed / Foundation Charter,RECEIVED,2025-03-25,,,True
+KYC-2068,Proof of Registered Address,RECEIVED,2026-08-08,,,True
+KYC-2068,Source of Funds Declaration,RECEIVED,2026-01-07,,,True
+KYC-2069,Registry Extract (RCS/equiv.),RECEIVED,2026-07-30,,,True
+KYC-2069,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-22,,,True
+KYC-2069,Articles of Association,RECEIVED,2022-10-28,,,True
+KYC-2069,Director / Signatory ID,RECEIVED,2019-10-05,2029-10-02,,True
+KYC-2069,Authorised Signatory List,RECEIVED,2025-05-21,,,True
+KYC-2069,FATCA / CRS Self-Certification,RECEIVED,2023-06-18,,,True
+KYC-2069,Proof of Registered Address,RECEIVED,2026-09-17,,,True
+KYC-2069,Audited Financial Statements,RECEIVED,2026-07-31,,,True
+KYC-2070,Registry Extract (RCS/equiv.),RECEIVED,2026-08-20,,,True
+KYC-2070,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-11,,,True
+KYC-2070,Articles of Association,RECEIVED,2023-04-17,,,True
+KYC-2070,Director / Signatory ID,RECEIVED,2017-07-30,2027-07-28,,True
+KYC-2070,Authorised Signatory List,RECEIVED,2025-05-10,,,True
+KYC-2070,FATCA / CRS Self-Certification,RECEIVED,2023-06-07,,,True
+KYC-2070,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2070,Audited Financial Statements,RECEIVED,2026-04-26,,,True
+KYC-2071,Registry Extract (RCS/equiv.),RECEIVED,2026-08-29,,,True
+KYC-2071,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-23,,,True
+KYC-2071,Articles of Association,RECEIVED,2026-02-02,,,True
+KYC-2071,Director / Signatory ID,RECEIVED,2019-05-07,2029-05-04,,True
+KYC-2071,Authorised Signatory List,RECEIVED,2025-11-10,,,True
+KYC-2071,FATCA / CRS Self-Certification,RECEIVED,2024-12-01,,,True
+KYC-2071,Trust Deed / Foundation Charter,RECEIVED,2023-12-23,,,True
+KYC-2071,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2071,Source of Funds Declaration,RECEIVED,2026-02-03,,,True
+KYC-2071,Source of Wealth Evidence,RECEIVED,2023-06-01,,,True
+KYC-2072,Registry Extract (RCS/equiv.),RECEIVED,2026-08-16,,,True
+KYC-2072,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2072,Articles of Association,RECEIVED,2026-05-29,,,True
+KYC-2072,Director / Signatory ID,RECEIVED,2017-02-26,2027-02-24,,True
+KYC-2072,Authorised Signatory List,RECEIVED,2022-09-26,,,True
+KYC-2072,FATCA / CRS Self-Certification,RECEIVED,2024-08-01,,,True
+KYC-2072,Proof of Registered Address,REQUESTED,,,2026-09-07,False
+KYC-2072,Audited Financial Statements,RECEIVED,2026-09-12,,,True
+KYC-2072,Source of Funds Declaration,RECEIVED,2024-09-14,,,True
+KYC-2073,Registry Extract (RCS/equiv.),RECEIVED,2026-09-09,,,True
+KYC-2073,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-07,,,True
+KYC-2073,Articles of Association,RECEIVED,2024-10-30,,,True
+KYC-2073,Director / Signatory ID,RECEIVED,2016-10-30,2026-10-28,,True
+KYC-2073,Authorised Signatory List,RECEIVED,2024-09-28,,,True
+KYC-2073,FATCA / CRS Self-Certification,RECEIVED,2022-08-28,,,True
+KYC-2073,Fund Prospectus / Offering Document,RECEIVED,2023-06-18,,,True
+KYC-2073,Regulatory Licence / Authorisation,RECEIVED,2025-09-03,,,True
+KYC-2073,Audited Financial Statements,RECEIVED,2026-04-15,,,True
+KYC-2074,Registry Extract (RCS/equiv.),RECEIVED,2026-08-20,,,True
+KYC-2074,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2074,Articles of Association,REQUESTED,,,2026-09-04,False
+KYC-2074,Director / Signatory ID,RECEIVED,2017-10-30,2027-10-28,,True
+KYC-2074,Authorised Signatory List,RECEIVED,2024-06-06,,,True
+KYC-2074,FATCA / CRS Self-Certification,RECEIVED,2023-04-28,,,True
+KYC-2074,Proof of Registered Address,REQUESTED,,,2026-09-05,False
+KYC-2074,Audited Financial Statements,RECEIVED,2025-10-02,,,True
+KYC-2075,Registry Extract (RCS/equiv.),RECEIVED,2026-08-20,,,True
+KYC-2075,UBO Register Extract (RBE/equiv.),REQUESTED,,,2026-09-10,False
+KYC-2075,Articles of Association,RECEIVED,2025-08-03,,,True
+KYC-2075,Director / Signatory ID,RECEIVED,2018-07-10,2028-07-07,,True
+KYC-2075,FATCA / CRS Self-Certification,RECEIVED,2024-05-17,,,True
+KYC-2075,Proof of Registered Address,RECEIVED,2026-08-23,,,True
+KYC-2075,Audited Financial Statements,RECEIVED,2025-11-29,,,False
+KYC-2075,Source of Funds Declaration,RECEIVED,2023-07-08,,,True
+KYC-2076,Registry Extract (RCS/equiv.),RECEIVED,2026-09-22,,,True
+KYC-2076,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-08,,,True
+KYC-2076,Articles of Association,RECEIVED,2026-01-15,,,True
+KYC-2076,Director / Signatory ID,RECEIVED,2020-03-17,2030-03-15,,True
+KYC-2076,Authorised Signatory List,RECEIVED,2023-09-13,,,True
+KYC-2076,FATCA / CRS Self-Certification,RECEIVED,2023-03-15,,,True
+KYC-2076,Proof of Registered Address,RECEIVED,2026-09-23,,,True
+KYC-2076,Audited Financial Statements,RECEIVED,2026-04-09,,,True
+KYC-2076,Source of Funds Declaration,RECEIVED,2023-03-27,,,True
+KYC-2077,Registry Extract (RCS/equiv.),RECEIVED,2026-09-04,,,True
+KYC-2077,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2077,Articles of Association,RECEIVED,2026-03-07,,,True
+KYC-2077,Director / Signatory ID,RECEIVED,2017-03-02,2027-02-28,,True
+KYC-2077,Authorised Signatory List,RECEIVED,2022-12-11,,,True
+KYC-2077,Proof of Registered Address,RECEIVED,2026-09-02,,,True
+KYC-2077,Audited Financial Statements,RECEIVED,2026-05-19,,,True
+KYC-2078,Registry Extract (RCS/equiv.),RECEIVED,2026-08-15,,,True
+KYC-2078,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-15,,,True
+KYC-2078,Articles of Association,RECEIVED,2023-11-25,,,True
+KYC-2078,Director / Signatory ID,REQUESTED,,,2026-09-19,False
+KYC-2078,Authorised Signatory List,RECEIVED,2025-03-21,,,True
+KYC-2078,FATCA / CRS Self-Certification,RECEIVED,2023-02-16,,,True
+KYC-2078,Regulatory Licence / Authorisation,RECEIVED,2023-01-24,,,False
+KYC-2078,Proof of Registered Address,RECEIVED,2026-07-22,,,True
+KYC-2078,Audited Financial Statements,RECEIVED,2026-03-29,,,True
+KYC-2079,Registry Extract (RCS/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2079,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-31,,,True
+KYC-2079,Articles of Association,RECEIVED,2024-11-16,,,True
+KYC-2079,Director / Signatory ID,RECEIVED,2017-10-18,2027-10-16,,True
+KYC-2079,Authorised Signatory List,RECEIVED,2022-12-05,,,True
+KYC-2079,FATCA / CRS Self-Certification,RECEIVED,2024-04-17,,,False
+KYC-2079,Proof of Registered Address,RECEIVED,2026-02-20,,,True
+KYC-2079,Audited Financial Statements,RECEIVED,2025-09-30,,,True
+KYC-2079,Source of Funds Declaration,RECEIVED,2026-01-28,,,True
+KYC-2080,Registry Extract (RCS/equiv.),RECEIVED,2026-08-18,,,True
+KYC-2080,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-17,,,True
+KYC-2080,Articles of Association,RECEIVED,2023-05-13,,,True
+KYC-2080,Director / Signatory ID,RECEIVED,2017-03-17,2027-03-15,,True
+KYC-2080,Authorised Signatory List,RECEIVED,2026-05-01,,,True
+KYC-2080,FATCA / CRS Self-Certification,RECEIVED,2026-01-24,,,True
+KYC-2080,Proof of Registered Address,RECEIVED,2026-08-09,,,True
+KYC-2080,Audited Financial Statements,RECEIVED,2025-10-28,,,True
+KYC-2081,Registry Extract (RCS/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2081,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2081,Articles of Association,RECEIVED,2024-09-25,,,True
+KYC-2081,Director / Signatory ID,RECEIVED,2020-11-11,2030-11-09,,True
+KYC-2081,Authorised Signatory List,RECEIVED,2025-08-02,,,True
+KYC-2081,FATCA / CRS Self-Certification,RECEIVED,2024-12-15,,,True
+KYC-2081,Proof of Registered Address,RECEIVED,2026-08-14,,,True
+KYC-2081,Audited Financial Statements,RECEIVED,2025-07-09,,,True
+KYC-2082,Registry Extract (RCS/equiv.),RECEIVED,2026-08-29,,,True
+KYC-2082,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-28,,,True
+KYC-2082,Articles of Association,RECEIVED,2024-05-11,,,True
+KYC-2082,Director / Signatory ID,RECEIVED,2017-01-20,2027-01-18,,True
+KYC-2082,Authorised Signatory List,RECEIVED,2025-09-23,,,True
+KYC-2082,FATCA / CRS Self-Certification,RECEIVED,2024-01-02,,,True
+KYC-2082,Proof of Registered Address,RECEIVED,2026-09-07,,,True
+KYC-2082,Audited Financial Statements,RECEIVED,2026-08-27,,,True
+KYC-2082,Source of Funds Declaration,RECEIVED,2023-10-26,,,True
+KYC-2083,Registry Extract (RCS/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2083,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-16,,,True
+KYC-2083,Articles of Association,RECEIVED,2026-05-21,,,True
+KYC-2083,Director / Signatory ID,RECEIVED,2020-01-07,2030-01-04,,True
+KYC-2083,Authorised Signatory List,RECEIVED,2026-02-21,,,True
+KYC-2083,FATCA / CRS Self-Certification,RECEIVED,2023-05-04,,,True
+KYC-2083,Fund Prospectus / Offering Document,RECEIVED,2023-01-16,,,True
+KYC-2083,Regulatory Licence / Authorisation,RECEIVED,2024-04-23,,,True
+KYC-2083,Audited Financial Statements,RECEIVED,2025-06-01,,,True
+KYC-2083,Source of Funds Declaration,RECEIVED,2024-07-07,,,True
+KYC-2084,Registry Extract (RCS/equiv.),RECEIVED,2026-09-12,,,False
+KYC-2084,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-24,,,True
+KYC-2084,Articles of Association,RECEIVED,2026-04-20,,,True
+KYC-2084,Director / Signatory ID,RECEIVED,2018-11-23,2028-11-20,,True
+KYC-2084,Authorised Signatory List,RECEIVED,2023-11-06,,,True
+KYC-2084,FATCA / CRS Self-Certification,RECEIVED,2024-03-20,,,True
+KYC-2084,Proof of Registered Address,RECEIVED,2026-09-19,,,True
+KYC-2084,Audited Financial Statements,RECEIVED,2024-10-10,,,True
+KYC-2085,Registry Extract (RCS/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2085,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-17,,,True
+KYC-2085,Articles of Association,RECEIVED,2025-01-12,,,True
+KYC-2085,Director / Signatory ID,RECEIVED,2019-05-30,2029-05-27,,True
+KYC-2085,Authorised Signatory List,RECEIVED,2022-09-03,,,True
+KYC-2085,FATCA / CRS Self-Certification,RECEIVED,2026-07-03,,,True
+KYC-2085,Proof of Registered Address,RECEIVED,2026-09-15,,,True
+KYC-2085,Audited Financial Statements,RECEIVED,2025-11-07,,,True
+KYC-2085,Source of Funds Declaration,RECEIVED,2022-10-10,,,True
+KYC-2085,Source of Wealth Evidence,RECEIVED,2023-11-18,,,True
+KYC-2086,Registry Extract (RCS/equiv.),RECEIVED,2026-08-08,,,True
+KYC-2086,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-19,,,True
+KYC-2086,Articles of Association,RECEIVED,2025-04-03,,,True
+KYC-2086,Director / Signatory ID,RECEIVED,2017-03-31,2027-03-29,,True
+KYC-2086,Authorised Signatory List,RECEIVED,2023-03-01,,,True
+KYC-2086,FATCA / CRS Self-Certification,RECEIVED,2023-05-10,,,True
+KYC-2086,Proof of Registered Address,RECEIVED,2026-09-26,,,True
+KYC-2086,Audited Financial Statements,RECEIVED,2025-04-10,,,True
+KYC-2086,Source of Funds Declaration,RECEIVED,2025-10-04,,,True
+KYC-2087,Registry Extract (RCS/equiv.),RECEIVED,2026-08-21,,,True
+KYC-2087,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-08,,,True
+KYC-2087,Articles of Association,RECEIVED,2023-09-02,,,True
+KYC-2087,Director / Signatory ID,RECEIVED,2021-09-10,2031-09-08,,True
+KYC-2087,Authorised Signatory List,RECEIVED,2025-01-08,,,True
+KYC-2087,FATCA / CRS Self-Certification,RECEIVED,2023-05-28,,,True
+KYC-2087,Regulatory Licence / Authorisation,RECEIVED,2025-10-03,,,True
+KYC-2087,Proof of Registered Address,RECEIVED,2026-09-09,,,True
+KYC-2087,Audited Financial Statements,RECEIVED,2025-06-10,,,True
+KYC-2088,Registry Extract (RCS/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2088,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-21,,,True
+KYC-2088,Articles of Association,RECEIVED,2026-03-29,,,True
+KYC-2088,Director / Signatory ID,RECEIVED,2018-10-31,2028-10-28,,True
+KYC-2088,Authorised Signatory List,RECEIVED,2025-08-20,,,True
+KYC-2088,FATCA / CRS Self-Certification,RECEIVED,2025-07-30,,,True
+KYC-2088,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2088,Audited Financial Statements,RECEIVED,2025-05-22,,,True
+KYC-2089,Registry Extract (RCS/equiv.),RECEIVED,2026-09-10,,,True
+KYC-2089,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-03,,,False
+KYC-2089,Articles of Association,RECEIVED,2025-06-27,,,True
+KYC-2089,Director / Signatory ID,RECEIVED,2019-02-09,2029-02-06,,True
+KYC-2089,Authorised Signatory List,RECEIVED,2025-07-20,,,True
+KYC-2089,FATCA / CRS Self-Certification,RECEIVED,2024-05-13,,,True
+KYC-2089,Fund Prospectus / Offering Document,RECEIVED,2024-11-18,,,True
+KYC-2089,Regulatory Licence / Authorisation,RECEIVED,2023-10-02,,,True
+KYC-2089,Audited Financial Statements,RECEIVED,2025-12-24,,,True
+KYC-2090,Registry Extract (RCS/equiv.),RECEIVED,2026-08-18,,,True
+KYC-2090,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-22,,,True
+KYC-2090,Articles of Association,RECEIVED,2024-08-30,,,True
+KYC-2090,Director / Signatory ID,RECEIVED,2017-10-20,2027-10-18,,True
+KYC-2090,Authorised Signatory List,RECEIVED,2026-03-29,,,False
+KYC-2090,FATCA / CRS Self-Certification,RECEIVED,2023-09-21,,,True
+KYC-2090,Regulatory Licence / Authorisation,REQUESTED,,,2026-08-07,False
+KYC-2090,Proof of Registered Address,RECEIVED,2026-09-09,,,True
+KYC-2090,Audited Financial Statements,RECEIVED,2025-11-21,,,True
+KYC-2091,Registry Extract (RCS/equiv.),RECEIVED,2026-09-15,,,True
+KYC-2091,UBO Register Extract (RBE/equiv.),REQUESTED,,,2026-08-07,False
+KYC-2091,Articles of Association,RECEIVED,2023-06-09,,,True
+KYC-2091,Director / Signatory ID,RECEIVED,2016-08-20,2026-08-18,,True
+KYC-2091,Authorised Signatory List,RECEIVED,2024-04-01,,,True
+KYC-2091,FATCA / CRS Self-Certification,RECEIVED,2024-03-22,,,True
+KYC-2091,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2091,Audited Financial Statements,REQUESTED,,,2026-08-30,False
+KYC-2092,Registry Extract (RCS/equiv.),RECEIVED,2026-09-02,,,True
+KYC-2092,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-23,,,True
+KYC-2092,Articles of Association,RECEIVED,2022-12-31,,,True
+KYC-2092,Director / Signatory ID,RECEIVED,2017-07-20,2027-07-18,,True
+KYC-2092,Authorised Signatory List,RECEIVED,2025-12-30,,,True
+KYC-2092,FATCA / CRS Self-Certification,RECEIVED,2025-09-09,,,True
+KYC-2092,Proof of Registered Address,REQUESTED,,,2026-08-11,False
+KYC-2092,Audited Financial Statements,RECEIVED,2026-08-27,,,True
+KYC-2092,Source of Funds Declaration,RECEIVED,2023-06-02,,,True
+KYC-2093,Registry Extract (RCS/equiv.),RECEIVED,2026-08-28,,,True
+KYC-2093,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-28,,,True
+KYC-2093,Articles of Association,RECEIVED,2024-05-01,,,True
+KYC-2093,Director / Signatory ID,RECEIVED,2019-08-24,2029-08-21,,True
+KYC-2093,Authorised Signatory List,RECEIVED,2023-03-05,,,True
+KYC-2093,FATCA / CRS Self-Certification,RECEIVED,2022-09-09,,,True
+KYC-2093,Proof of Registered Address,RECEIVED,2026-09-03,,,True
+KYC-2093,Audited Financial Statements,RECEIVED,2026-07-16,,,True
+KYC-2093,Source of Funds Declaration,RECEIVED,2026-07-02,,,True
+KYC-2093,Source of Wealth Evidence,RECEIVED,2025-02-20,,,False
+KYC-2094,Registry Extract (RCS/equiv.),RECEIVED,2026-08-08,,,True
+KYC-2094,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-04,,,True
+KYC-2094,Articles of Association,RECEIVED,2025-03-19,,,True
+KYC-2094,Director / Signatory ID,RECEIVED,2018-01-26,2028-01-24,,True
+KYC-2094,Authorised Signatory List,RECEIVED,2023-02-09,,,True
+KYC-2094,FATCA / CRS Self-Certification,REQUESTED,,,2026-08-19,False
+KYC-2094,Fund Prospectus / Offering Document,RECEIVED,2024-12-18,,,True
+KYC-2094,Regulatory Licence / Authorisation,RECEIVED,2023-06-14,,,True
+KYC-2094,Audited Financial Statements,REQUESTED,,,2026-08-21,False
+KYC-2094,Source of Funds Declaration,RECEIVED,2025-02-09,,,True
+KYC-2094,Source of Wealth Evidence,RECEIVED,2023-01-17,,,True
+KYC-2095,Registry Extract (RCS/equiv.),RECEIVED,2026-09-20,,,True
+KYC-2095,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-15,,,True
+KYC-2095,Articles of Association,RECEIVED,2023-01-03,,,True
+KYC-2095,Director / Signatory ID,RECEIVED,2017-03-27,2027-03-25,,True
+KYC-2095,Authorised Signatory List,RECEIVED,2023-11-11,,,True
+KYC-2095,FATCA / CRS Self-Certification,RECEIVED,2024-11-17,,,True
+KYC-2095,Proof of Registered Address,RECEIVED,2026-04-09,,,True
+KYC-2095,Audited Financial Statements,RECEIVED,2024-11-28,,,True
+KYC-2095,Source of Funds Declaration,RECEIVED,2026-07-28,,,True
+KYC-2096,Registry Extract (RCS/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2096,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-11,,,True
+KYC-2096,Articles of Association,RECEIVED,2026-04-23,,,True
+KYC-2096,Director / Signatory ID,RECEIVED,2020-12-08,2030-12-06,,True
+KYC-2096,Authorised Signatory List,RECEIVED,2022-10-05,,,True
+KYC-2096,FATCA / CRS Self-Certification,RECEIVED,2024-11-25,,,True
+KYC-2096,Fund Prospectus / Offering Document,RECEIVED,2024-05-27,,,True
+KYC-2096,Regulatory Licence / Authorisation,REQUESTED,,,2026-09-29,False
+KYC-2096,Audited Financial Statements,RECEIVED,2026-09-29,,,True
+KYC-2096,Source of Funds Declaration,RECEIVED,2025-01-24,,,True
+KYC-2097,Registry Extract (RCS/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2097,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-28,,,True
+KYC-2097,Articles of Association,RECEIVED,2022-08-29,,,True
+KYC-2097,Director / Signatory ID,RECEIVED,2017-12-15,2027-12-13,,True
+KYC-2097,Authorised Signatory List,RECEIVED,2024-05-30,,,True
+KYC-2097,FATCA / CRS Self-Certification,RECEIVED,2023-12-20,,,True
+KYC-2097,Proof of Registered Address,RECEIVED,2026-07-16,,,True
+KYC-2097,Audited Financial Statements,RECEIVED,2026-07-20,,,True
+KYC-2098,Registry Extract (RCS/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2098,UBO Register Extract (RBE/equiv.),RECEIVED,2026-07-20,,,True
+KYC-2098,Articles of Association,RECEIVED,2025-10-30,,,True
+KYC-2098,Director / Signatory ID,RECEIVED,2017-08-09,2027-08-07,,True
+KYC-2098,Authorised Signatory List,RECEIVED,2024-07-05,,,True
+KYC-2098,FATCA / CRS Self-Certification,RECEIVED,2023-07-02,,,True
+KYC-2098,Trust Deed / Foundation Charter,RECEIVED,2025-01-31,,,True
+KYC-2098,Proof of Registered Address,RECEIVED,2026-09-07,,,True
+KYC-2098,Source of Funds Declaration,RECEIVED,2025-11-22,,,True
+KYC-2098,Source of Wealth Evidence,REQUESTED,,,2026-09-14,False
+KYC-2099,Registry Extract (RCS/equiv.),RECEIVED,2026-09-12,,,True
+KYC-2099,Articles of Association,RECEIVED,2023-05-02,,,True
+KYC-2099,Director / Signatory ID,RECEIVED,2020-06-25,2030-06-23,,True
+KYC-2099,Authorised Signatory List,RECEIVED,2023-06-12,,,True
+KYC-2099,FATCA / CRS Self-Certification,RECEIVED,2023-12-29,,,True
+KYC-2099,Proof of Registered Address,RECEIVED,2026-08-28,,,True
+KYC-2099,Audited Financial Statements,RECEIVED,2026-09-26,,,True
+KYC-2099,Source of Funds Declaration,RECEIVED,2026-04-16,,,True
+KYC-2100,Registry Extract (RCS/equiv.),RECEIVED,2026-09-29,,,True
+KYC-2100,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-25,,,True
+KYC-2100,Articles of Association,RECEIVED,2025-11-26,,,True
+KYC-2100,Director / Signatory ID,RECEIVED,2019-11-15,2029-11-12,,True
+KYC-2100,Authorised Signatory List,RECEIVED,2026-04-27,,,True
+KYC-2100,FATCA / CRS Self-Certification,RECEIVED,2023-12-17,,,True
+KYC-2100,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2100,Audited Financial Statements,RECEIVED,2026-08-10,,,True
+KYC-2100,Source of Funds Declaration,RECEIVED,2026-08-04,,,True
+KYC-2101,Registry Extract (RCS/equiv.),RECEIVED,2026-09-19,,,True
+KYC-2101,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-03,,,True
+KYC-2101,Articles of Association,RECEIVED,2024-04-11,,,True
+KYC-2101,Director / Signatory ID,RECEIVED,2016-12-20,2026-12-18,,True
+KYC-2101,Authorised Signatory List,RECEIVED,2024-04-26,,,True
+KYC-2101,FATCA / CRS Self-Certification,RECEIVED,2026-05-27,,,True
+KYC-2101,Proof of Registered Address,RECEIVED,2026-08-20,,,True
+KYC-2101,Audited Financial Statements,RECEIVED,2025-11-21,,,True
+KYC-2101,Source of Funds Declaration,RECEIVED,2024-06-03,,,True
+KYC-2101,Source of Wealth Evidence,RECEIVED,2026-06-06,,,True
+KYC-2102,Registry Extract (RCS/equiv.),RECEIVED,2026-07-23,,,True
+KYC-2102,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-19,,,True
+KYC-2102,Articles of Association,RECEIVED,2023-05-18,,,True
+KYC-2102,Director / Signatory ID,RECEIVED,2021-02-06,2031-02-04,,True
+KYC-2102,Authorised Signatory List,RECEIVED,2025-02-18,,,True
+KYC-2102,FATCA / CRS Self-Certification,RECEIVED,2025-10-03,,,True
+KYC-2102,Proof of Registered Address,RECEIVED,2026-08-29,,,True
+KYC-2102,Audited Financial Statements,RECEIVED,2025-12-11,,,True
+KYC-2103,Registry Extract (RCS/equiv.),RECEIVED,2026-08-08,,,True
+KYC-2103,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-19,,,True
+KYC-2103,Articles of Association,RECEIVED,2025-01-25,,,True
+KYC-2103,Director / Signatory ID,RECEIVED,2017-12-29,2027-12-27,,True
+KYC-2103,Authorised Signatory List,RECEIVED,2026-07-13,,,True
+KYC-2103,FATCA / CRS Self-Certification,RECEIVED,2022-12-06,,,True
+KYC-2103,Proof of Registered Address,RECEIVED,2026-09-08,,,True
+KYC-2103,Audited Financial Statements,RECEIVED,2025-08-20,,,True
+KYC-2104,Registry Extract (RCS/equiv.),RECEIVED,2026-08-31,,,True
+KYC-2104,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-05,,,True
+KYC-2104,Articles of Association,RECEIVED,2024-06-27,,,True
+KYC-2104,Director / Signatory ID,RECEIVED,2018-10-20,2028-10-17,,True
+KYC-2104,Authorised Signatory List,RECEIVED,2026-02-11,,,True
+KYC-2104,FATCA / CRS Self-Certification,RECEIVED,2023-11-24,,,True
+KYC-2104,Proof of Registered Address,RECEIVED,2026-09-09,,,True
+KYC-2104,Audited Financial Statements,RECEIVED,2026-04-14,,,True
+KYC-2105,Registry Extract (RCS/equiv.),RECEIVED,2026-09-11,,,True
+KYC-2105,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-16,,,True
+KYC-2105,Articles of Association,RECEIVED,2024-11-12,,,True
+KYC-2105,Director / Signatory ID,RECEIVED,2021-06-27,2031-06-25,,True
+KYC-2105,Authorised Signatory List,RECEIVED,2026-07-09,,,True
+KYC-2105,FATCA / CRS Self-Certification,RECEIVED,2023-06-15,,,True
+KYC-2105,Proof of Registered Address,RECEIVED,2026-09-22,,,True
+KYC-2105,Audited Financial Statements,RECEIVED,2026-07-02,,,True
+KYC-2105,Source of Funds Declaration,REQUESTED,,,2026-08-26,False
+KYC-2106,Registry Extract (RCS/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2106,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-18,,,True
+KYC-2106,Articles of Association,RECEIVED,2025-05-19,,,True
+KYC-2106,Director / Signatory ID,RECEIVED,2016-05-13,2026-05-11,,True
+KYC-2106,Authorised Signatory List,RECEIVED,2026-05-01,,,True
+KYC-2106,FATCA / CRS Self-Certification,RECEIVED,2023-01-17,,,True
+KYC-2106,Trust Deed / Foundation Charter,RECEIVED,2024-09-11,,,True
+KYC-2106,Proof of Registered Address,REQUESTED,,,2026-09-17,False
+KYC-2106,Source of Funds Declaration,RECEIVED,2023-08-26,,,True
+KYC-2106,Source of Wealth Evidence,RECEIVED,2024-02-23,,,True
+KYC-2107,Registry Extract (RCS/equiv.),RECEIVED,2026-09-12,,,True
+KYC-2107,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-19,,,True
+KYC-2107,Articles of Association,RECEIVED,2024-06-24,,,True
+KYC-2107,Director / Signatory ID,RECEIVED,2019-05-24,2029-05-21,,True
+KYC-2107,Authorised Signatory List,RECEIVED,2025-05-12,,,True
+KYC-2107,FATCA / CRS Self-Certification,RECEIVED,2022-09-24,,,True
+KYC-2107,Proof of Registered Address,RECEIVED,2026-08-07,,,True
+KYC-2107,Audited Financial Statements,RECEIVED,2025-09-30,,,True
+KYC-2108,Registry Extract (RCS/equiv.),RECEIVED,2026-08-15,,,True
+KYC-2108,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-10,,,True
+KYC-2108,Articles of Association,RECEIVED,2025-12-10,,,True
+KYC-2108,Director / Signatory ID,RECEIVED,2018-08-09,2028-08-06,,True
+KYC-2108,Authorised Signatory List,RECEIVED,2023-03-24,,,True
+KYC-2108,FATCA / CRS Self-Certification,RECEIVED,2024-12-23,,,True
+KYC-2108,Trust Deed / Foundation Charter,RECEIVED,2024-02-19,,,True
+KYC-2108,Proof of Registered Address,RECEIVED,2026-09-13,,,True
+KYC-2108,Source of Funds Declaration,RECEIVED,2024-04-11,,,True
+KYC-2108,Source of Wealth Evidence,RECEIVED,2026-04-26,,,True
+KYC-2109,Registry Extract (RCS/equiv.),RECEIVED,2026-09-09,,,True
+KYC-2109,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-10,,,True
+KYC-2109,Articles of Association,RECEIVED,2023-08-02,,,True
+KYC-2109,Director / Signatory ID,RECEIVED,2017-03-13,2027-03-11,,True
+KYC-2109,Authorised Signatory List,RECEIVED,2024-09-10,,,True
+KYC-2109,FATCA / CRS Self-Certification,RECEIVED,2022-12-12,,,True
+KYC-2109,Proof of Registered Address,RECEIVED,2026-08-11,,,True
+KYC-2109,Audited Financial Statements,RECEIVED,2026-06-21,,,True
+KYC-2110,Registry Extract (RCS/equiv.),RECEIVED,2026-09-28,,,True
+KYC-2110,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-22,,,True
+KYC-2110,Articles of Association,RECEIVED,2026-02-25,,,True
+KYC-2110,Director / Signatory ID,RECEIVED,2021-01-04,2031-01-02,,True
+KYC-2110,Authorised Signatory List,RECEIVED,2023-09-27,,,True
+KYC-2110,FATCA / CRS Self-Certification,RECEIVED,2025-08-29,,,True
+KYC-2110,Proof of Registered Address,RECEIVED,2026-08-19,,,True
+KYC-2110,Audited Financial Statements,RECEIVED,2026-03-07,,,True
+KYC-2111,Registry Extract (RCS/equiv.),RECEIVED,2026-08-10,,,True
+KYC-2111,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-20,,,True
+KYC-2111,Articles of Association,RECEIVED,2026-06-26,,,True
+KYC-2111,Director / Signatory ID,RECEIVED,2021-09-04,2031-09-02,,True
+KYC-2111,Authorised Signatory List,RECEIVED,2023-05-06,,,True
+KYC-2111,FATCA / CRS Self-Certification,RECEIVED,2023-06-03,,,True
+KYC-2111,Regulatory Licence / Authorisation,RECEIVED,2022-11-23,,,True
+KYC-2111,Proof of Registered Address,RECEIVED,2026-08-25,,,True
+KYC-2111,Audited Financial Statements,RECEIVED,2025-06-01,,,True
+KYC-2112,Registry Extract (RCS/equiv.),RECEIVED,2026-07-15,,,True
+KYC-2112,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-10,,,True
+KYC-2112,Articles of Association,RECEIVED,2025-10-31,,,True
+KYC-2112,Director / Signatory ID,RECEIVED,2018-11-25,2028-11-22,,True
+KYC-2112,Authorised Signatory List,RECEIVED,2023-11-16,,,True
+KYC-2112,FATCA / CRS Self-Certification,RECEIVED,2024-12-21,,,True
+KYC-2112,Proof of Registered Address,RECEIVED,2026-08-18,,,False
+KYC-2112,Audited Financial Statements,RECEIVED,2025-11-27,,,True
+KYC-2112,Source of Funds Declaration,RECEIVED,2023-08-08,,,True
+KYC-2113,Registry Extract (RCS/equiv.),RECEIVED,2026-09-28,,,True
+KYC-2113,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-08,,,True
+KYC-2113,Articles of Association,RECEIVED,2023-07-06,,,True
+KYC-2113,Director / Signatory ID,RECEIVED,2017-09-24,2027-09-22,,True
+KYC-2113,Authorised Signatory List,RECEIVED,2024-12-12,,,True
+KYC-2113,FATCA / CRS Self-Certification,RECEIVED,2024-01-20,,,True
+KYC-2113,Proof of Registered Address,RECEIVED,2026-08-23,,,True
+KYC-2113,Audited Financial Statements,RECEIVED,2026-07-16,,,True
+KYC-2114,Registry Extract (RCS/equiv.),REQUESTED,,,2026-08-28,False
+KYC-2114,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-01,,,True
+KYC-2114,Articles of Association,RECEIVED,2025-02-19,,,True
+KYC-2114,Director / Signatory ID,RECEIVED,2020-11-26,2030-11-24,,True
+KYC-2114,Authorised Signatory List,RECEIVED,2025-09-15,,,True
+KYC-2114,FATCA / CRS Self-Certification,RECEIVED,2023-06-05,,,True
+KYC-2114,Regulatory Licence / Authorisation,RECEIVED,2025-08-03,,,False
+KYC-2114,Proof of Registered Address,RECEIVED,2026-06-16,,,True
+KYC-2114,Audited Financial Statements,RECEIVED,2025-07-11,,,True
+KYC-2115,Registry Extract (RCS/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2115,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-13,,,True
+KYC-2115,Articles of Association,RECEIVED,2024-08-21,,,True
+KYC-2115,Director / Signatory ID,RECEIVED,2020-10-24,2030-10-22,,True
+KYC-2115,Authorised Signatory List,RECEIVED,2023-07-18,,,True
+KYC-2115,FATCA / CRS Self-Certification,REQUESTED,,,2026-09-20,False
+KYC-2115,Regulatory Licence / Authorisation,RECEIVED,2024-04-04,,,True
+KYC-2115,Proof of Registered Address,RECEIVED,2026-08-06,,,True
+KYC-2115,Audited Financial Statements,RECEIVED,2025-11-02,,,True
+KYC-2116,Registry Extract (RCS/equiv.),RECEIVED,2026-08-23,,,True
+KYC-2116,UBO Register Extract (RBE/equiv.),RECEIVED,2026-07-15,,,True
+KYC-2116,Articles of Association,RECEIVED,2025-07-24,,,True
+KYC-2116,Director / Signatory ID,RECEIVED,2021-05-19,2031-05-17,,True
+KYC-2116,Authorised Signatory List,RECEIVED,2025-10-06,,,True
+KYC-2116,FATCA / CRS Self-Certification,RECEIVED,2025-01-27,,,True
+KYC-2116,Proof of Registered Address,RECEIVED,2026-08-13,,,True
+KYC-2116,Audited Financial Statements,RECEIVED,2025-08-13,,,True
+KYC-2117,Registry Extract (RCS/equiv.),RECEIVED,2026-09-25,,,True
+KYC-2117,UBO Register Extract (RBE/equiv.),RECEIVED,2026-08-14,,,True
+KYC-2117,Articles of Association,RECEIVED,2026-02-25,,,True
+KYC-2117,Director / Signatory ID,RECEIVED,2017-08-20,2027-08-18,,True
+KYC-2117,Authorised Signatory List,RECEIVED,2024-10-24,,,True
+KYC-2117,FATCA / CRS Self-Certification,RECEIVED,2024-10-14,,,True
+KYC-2117,Trust Deed / Foundation Charter,RECEIVED,2023-04-17,,,True
+KYC-2117,Proof of Registered Address,RECEIVED,2026-09-10,,,True
+KYC-2117,Source of Funds Declaration,RECEIVED,2025-02-15,,,True
+KYC-2118,Registry Extract (RCS/equiv.),RECEIVED,2026-08-29,,,True
+KYC-2118,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-22,,,True
+KYC-2118,Articles of Association,RECEIVED,2025-06-01,,,True
+KYC-2118,Director / Signatory ID,RECEIVED,2017-09-22,2027-09-20,,True
+KYC-2118,Authorised Signatory List,RECEIVED,2023-09-11,,,True
+KYC-2118,FATCA / CRS Self-Certification,RECEIVED,2024-05-06,,,True
+KYC-2118,Proof of Registered Address,RECEIVED,2026-09-13,,,True
+KYC-2118,Audited Financial Statements,RECEIVED,2025-07-30,,,True
+KYC-2118,Source of Funds Declaration,RECEIVED,2023-03-08,,,True
+KYC-2119,Registry Extract (RCS/equiv.),RECEIVED,2026-08-25,,,True
+KYC-2119,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-25,,,True
+KYC-2119,Articles of Association,RECEIVED,2024-07-05,,,True
+KYC-2119,Director / Signatory ID,RECEIVED,2018-12-17,2028-12-14,,True
+KYC-2119,Authorised Signatory List,RECEIVED,2026-06-27,,,True
+KYC-2119,FATCA / CRS Self-Certification,RECEIVED,2024-10-16,,,True
+KYC-2119,Fund Prospectus / Offering Document,RECEIVED,2026-03-03,,,True
+KYC-2119,Regulatory Licence / Authorisation,RECEIVED,2026-06-26,,,True
+KYC-2119,Audited Financial Statements,RECEIVED,2026-04-21,,,True
+KYC-2120,Registry Extract (RCS/equiv.),RECEIVED,2026-09-17,,,True
+KYC-2120,UBO Register Extract (RBE/equiv.),RECEIVED,2026-09-07,,,True
+KYC-2120,Articles of Association,RECEIVED,2024-09-16,,,True
+KYC-2120,Director / Signatory ID,RECEIVED,2020-12-29,2030-12-27,,True
+KYC-2120,Authorised Signatory List,RECEIVED,2023-10-31,,,True
+KYC-2120,FATCA / CRS Self-Certification,RECEIVED,2026-01-06,,,True
+KYC-2120,Proof of Registered Address,RECEIVED,2026-07-18,,,True
+KYC-2120,Audited Financial Statements,RECEIVED,2025-11-09,,,True
+KYC-2120,Source of Funds Declaration,RECEIVED,2026-05-20,,,True

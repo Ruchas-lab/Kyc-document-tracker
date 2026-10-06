@@ -1,0 +1,121 @@
+client_id,client_name,entity_type,jurisdiction,sector,onboarding_date,last_review_date,risk_tier,relationship_manager
+KYC-2001,Alder Estates SAS,Trust / Foundation,FR,Real Estate,2021-04-30,2026-02-20,MEDIUM,Anna Keller
+KYC-2002,Alder Group Pte Ltd,Trust / Foundation,SG,Import/Export,2021-02-11,2024-01-09,MEDIUM,Elena Petrova
+KYC-2003,Nordhaven Partners Ltd,Financial Services Entity,VG,Asset Management,2021-05-01,2025-04-13,MEDIUM,Marc Dubois
+KYC-2004,Verity Industries S.a r.l.,Operating Company,LU,Art & Antiquities,2022-01-07,2022-08-26,MEDIUM,Lukas Meier
+KYC-2005,Meridian Group S.a r.l.,Operating Company,LU,Art & Antiquities,2021-10-20,2023-08-05,MEDIUM,Lukas Meier
+KYC-2006,Solstice Logistics SAS,Operating Company,FR,Import/Export,2023-05-19,2023-05-19,LOW,Anna Keller
+KYC-2007,Oakmere Industries S.a r.l.,Holding Company,LU,Technology,2026-03-25,2026-03-25,LOW,Lukas Meier
+KYC-2008,Stratos Trading Ltd,Holding Company,GB,Professional Services,2023-07-26,2023-07-26,LOW,Elena Petrova
+KYC-2009,Aurelia Logistics S.a r.l.,Operating Company,LU,Import/Export,2025-07-21,2025-07-21,LOW,Elena Petrova
+KYC-2010,Nordhaven Capital A.S.,Trust / Foundation,TR,Precious Metals Trading,2020-06-20,2025-12-11,HIGH,Lukas Meier
+KYC-2011,Vantor Ventures Ltd,Holding Company,VG,Crypto / Digital Assets,2021-08-21,2026-07-04,HIGH,Elena Petrova
+KYC-2012,Stratos Capital Ltd,Trust / Foundation,IE,Logistics,2026-05-25,2026-05-25,MEDIUM,Jan de Vries
+KYC-2013,Meridian Trading GmbH,Investment Fund,DE,Asset Management,2024-10-18,2024-10-18,LOW,Lukas Meier
+KYC-2014,Aurelia Group S.a r.l.,Financial Services Entity,LU,Asset Management,2020-01-16,2023-07-31,LOW,Marc Dubois
+KYC-2015,Lumen Advisory S.a r.l.,Operating Company,LU,Crypto / Digital Assets,2026-06-06,2026-06-06,HIGH,Elena Petrova
+KYC-2016,Meridian Technologies S.a r.l.,Financial Services Entity,LU,Professional Services,2021-10-13,2021-10-14,LOW,Anna Keller
+KYC-2017,Meridian Partners SAS,Holding Company,FR,Crypto / Digital Assets,2021-08-19,2025-08-18,MEDIUM,Marc Dubois
+KYC-2018,Aurelia Holdings Ltd,Holding Company,CY,Crypto / Digital Assets,2022-03-10,2026-03-05,MEDIUM,Lukas Meier
+KYC-2019,Solstice Investments Ltd,Operating Company,IE,Crypto / Digital Assets,2024-12-20,2024-12-20,MEDIUM,Lukas Meier
+KYC-2020,Meridian Capital S.a r.l.,Financial Services Entity,LU,Professional Services,2021-11-26,2021-11-26,LOW,Elena Petrova
+KYC-2021,Alder Partners AG,Investment Fund,CH,Asset Management,2024-12-31,2024-12-31,LOW,Elena Petrova
+KYC-2022,Oakmere Technologies Ltd,Operating Company,CY,Precious Metals Trading,2021-08-31,2025-05-09,MEDIUM,Elena Petrova
+KYC-2023,Kestrel Logistics A.S.,Operating Company,TR,Healthcare,2025-01-08,2025-01-08,MEDIUM,Sofia Rossi
+KYC-2024,Stratos Logistics Ltd,Operating Company,VG,Asset Management,2021-12-27,2026-06-27,MEDIUM,Marc Dubois
+KYC-2025,Ardent Industries Ltd,Holding Company,IE,Crypto / Digital Assets,2021-07-22,2025-08-10,MEDIUM,Anna Keller
+KYC-2026,Solstice Holdings AG,Investment Fund,CH,Asset Management,2023-12-02,2023-12-02,LOW,Sofia Rossi
+KYC-2027,Lumen Capital S.a r.l.,Operating Company,LU,Manufacturing,2020-11-11,2022-09-17,LOW,Anna Keller
+KYC-2028,Alder Ventures Ltd,Financial Services Entity,CY,Asset Management,2024-06-07,2024-06-07,LOW,Jan de Vries
+KYC-2029,Stratos Technologies S.a r.l.,Holding Company,LU,Professional Services,2025-07-31,2025-07-31,LOW,Jan de Vries
+KYC-2030,Stratos Partners Ltd,Financial Services Entity,MT,Asset Management,2021-01-23,2022-08-26,LOW,Jan de Vries
+KYC-2031,Solstice Industries S.a r.l.,Operating Company,LU,Healthcare,2020-03-05,2024-10-30,LOW,Anna Keller
+KYC-2032,Stratos Industries B.V.,Financial Services Entity,NL,Professional Services,2019-09-13,2019-11-03,LOW,Sofia Rossi
+KYC-2033,Corvus Industries S.a r.l.,Operating Company,LU,Healthcare,2023-10-11,2023-10-11,LOW,Marc Dubois
+KYC-2034,Kestrel Group Ltd,Investment Fund,GB,Asset Management,2022-01-12,2022-01-12,LOW,Anna Keller
+KYC-2035,Corvus Estates FZE,Holding Company,AE,Art & Antiquities,2021-09-15,2026-03-11,HIGH,Marc Dubois
+KYC-2036,Solstice Partners Ltd,Operating Company,KY,Art & Antiquities,2019-10-13,2026-03-23,HIGH,Anna Keller
+KYC-2037,Kestrel Holdings S.a r.l.,Investment Fund,LU,Asset Management,2022-06-19,2022-06-19,LOW,Elena Petrova
+KYC-2038,Kestrel Technologies Ltd,Financial Services Entity,KY,Asset Management,2020-09-24,2026-08-23,MEDIUM,Lukas Meier
+KYC-2039,Vantor Group Ltd,Operating Company,MT,Energy,2025-10-01,2025-10-01,LOW,Anna Keller
+KYC-2040,Verity Technologies LLC,Operating Company,US,Professional Services,2021-07-24,2022-01-29,LOW,Anna Keller
+KYC-2041,Nordhaven Estates LLC,Holding Company,US,Asset Management,2023-10-10,2023-10-10,LOW,Lukas Meier
+KYC-2042,Kestrel Trading FZE,Investment Fund,AE,Asset Management,2023-01-05,2026-04-18,MEDIUM,Sofia Rossi
+KYC-2043,Vantor Trading LLC,Holding Company,US,Manufacturing,2023-04-23,2023-04-23,LOW,Lukas Meier
+KYC-2044,Stratos Group S.a r.l.,Investment Fund,LU,Asset Management,2024-07-25,2024-07-25,LOW,Anna Keller
+KYC-2045,Solstice Investments SAS,Operating Company,FR,Art & Antiquities,2026-04-06,2026-04-06,MEDIUM,Lukas Meier
+KYC-2046,Ardent Estates Ltd,Holding Company,CY,Energy,2022-06-03,2022-06-03,LOW,Elena Petrova
+KYC-2047,Kestrel Investments S.a r.l.,Holding Company,LU,Technology,2019-12-15,2020-04-24,LOW,Anna Keller
+KYC-2048,Nordhaven Group S.a r.l.,Investment Fund,LU,Asset Management,2021-02-08,2022-06-20,HIGH,Anna Keller
+KYC-2049,Oakmere Technologies S.a r.l.,Financial Services Entity,LU,Professional Services,2021-05-26,2022-03-07,LOW,Marc Dubois
+KYC-2050,Solstice Ventures A.S.,Holding Company,TR,Precious Metals Trading,2026-06-01,2026-06-01,HIGH,Jan de Vries
+KYC-2051,Alder Advisory A.S.,Holding Company,TR,Healthcare,2021-02-03,2026-05-20,MEDIUM,Anna Keller
+KYC-2052,Ardent Advisory GmbH,Investment Fund,DE,Asset Management,2020-06-29,2021-03-27,LOW,Anna Keller
+KYC-2053,Ardent Estates SAS,Operating Company,FR,Crypto / Digital Assets,2024-06-18,2024-06-18,MEDIUM,Elena Petrova
+KYC-2054,Halcyon Logistics A.S.,Investment Fund,TR,Asset Management,2024-01-13,2024-01-13,MEDIUM,Elena Petrova
+KYC-2055,Halcyon Partners Pte Ltd,Financial Services Entity,SG,Professional Services,2023-07-17,2023-07-17,LOW,Anna Keller
+KYC-2056,Meridian Advisory Ltd,Holding Company,VG,Real Estate,2023-06-14,2025-12-07,HIGH,Sofia Rossi
+KYC-2057,Lumen Capital Ltd,Operating Company,MT,Real Estate,2023-05-15,2023-05-15,LOW,Jan de Vries
+KYC-2058,Pinecrest Holdings Ltd,Investment Fund,CY,Asset Management,2024-06-19,2024-06-19,LOW,Marc Dubois
+KYC-2059,Vantor Trading S.a r.l.,Investment Fund,LU,Asset Management,2020-04-21,2026-06-01,LOW,Sofia Rossi
+KYC-2060,Brightwell Partners S.a r.l.,Operating Company,LU,Art & Antiquities,2020-10-23,2026-09-18,MEDIUM,Elena Petrova
+KYC-2061,Oakmere Trading Ltd,Holding Company,IE,Precious Metals Trading,2024-10-08,2024-10-08,MEDIUM,Sofia Rossi
+KYC-2062,Corvus Advisory S.a r.l.,Investment Fund,LU,Asset Management,2020-08-19,2026-06-17,HIGH,Sofia Rossi
+KYC-2063,Vantor Estates Ltd,Holding Company,CY,Manufacturing,2023-11-30,2023-11-30,LOW,Anna Keller
+KYC-2064,Halcyon Capital Ltd,Holding Company,MT,Healthcare,2019-10-26,2023-09-15,LOW,Jan de Vries
+KYC-2065,Kestrel Logistics Ltd,Operating Company,CY,Real Estate,2023-06-10,2023-06-10,LOW,Jan de Vries
+KYC-2066,Alder Trading B.V.,Trust / Foundation,NL,Import/Export,2023-12-29,2023-12-29,MEDIUM,Elena Petrova
+KYC-2067,Halcyon Holdings S.a r.l.,Holding Company,LU,Energy,2019-12-12,2024-05-25,LOW,Marc Dubois
+KYC-2068,Vantor Holdings S.a r.l.,Trust / Foundation,LU,Professional Services,2021-10-15,2026-07-16,MEDIUM,Marc Dubois
+KYC-2069,Stratos Estates Ltd,Operating Company,GB,Healthcare,2022-11-28,2022-11-28,LOW,Elena Petrova
+KYC-2070,Meridian Investments B.V.,Holding Company,NL,Energy,2022-03-10,2022-03-10,LOW,Elena Petrova
+KYC-2071,Oakmere Holdings Ltd,Trust / Foundation,VG,Crypto / Digital Assets,2025-11-05,2025-11-05,HIGH,Marc Dubois
+KYC-2072,Ardent Ventures A.S.,Operating Company,TR,Manufacturing,2024-05-14,2024-05-14,MEDIUM,Marc Dubois
+KYC-2073,Brightwell Capital S.a r.l.,Investment Fund,LU,Asset Management,2020-07-08,2023-08-21,LOW,Elena Petrova
+KYC-2074,Alder Technologies LLC,Operating Company,US,Healthcare,2023-09-04,2023-09-04,LOW,Anna Keller
+KYC-2075,Ardent Capital Ltd,Holding Company,KY,Energy,2019-08-31,2022-03-04,MEDIUM,Marc Dubois
+KYC-2076,Solstice Investments S.a r.l.,Holding Company,LU,Precious Metals Trading,2024-05-07,2024-05-07,MEDIUM,Lukas Meier
+KYC-2077,Nordhaven Capital S.a r.l.,Holding Company,LU,Healthcare,2020-09-10,2024-01-12,LOW,Marc Dubois
+KYC-2078,Solstice Technologies S.a r.l.,Financial Services Entity,LU,Professional Services,2024-05-06,2024-05-06,LOW,Jan de Vries
+KYC-2079,Stratos Advisory GmbH,Operating Company,DE,Precious Metals Trading,2020-05-05,2025-06-24,MEDIUM,Anna Keller
+KYC-2080,Kestrel Estates S.a r.l.,Holding Company,LU,Professional Services,2022-02-03,2022-02-03,LOW,Lukas Meier
+KYC-2081,Verity Capital LLC,Holding Company,US,Manufacturing,2022-06-30,2022-06-30,LOW,Elena Petrova
+KYC-2082,Solstice Logistics FZE,Holding Company,AE,Asset Management,2024-02-16,2024-02-16,MEDIUM,Lukas Meier
+KYC-2083,Lumen Trading S.A.,Investment Fund,PA,Asset Management,2023-08-24,2024-12-20,MEDIUM,Elena Petrova
+KYC-2084,Stratos Ventures Ltd,Holding Company,CY,Asset Management,2019-11-03,2026-06-10,LOW,Marc Dubois
+KYC-2085,Alder Ventures S.A.,Holding Company,PA,Crypto / Digital Assets,2024-10-05,2025-09-13,HIGH,Sofia Rossi
+KYC-2086,Aurelia Partners Ltd,Operating Company,KY,Professional Services,2020-10-04,2025-12-15,MEDIUM,Lukas Meier
+KYC-2087,Verity Industries LLC,Financial Services Entity,US,Professional Services,2021-08-21,2024-12-16,LOW,Elena Petrova
+KYC-2088,Stratos Capital S.a r.l.,Holding Company,LU,Logistics,2023-01-18,2023-01-18,LOW,Lukas Meier
+KYC-2089,Vantor Trading B.V.,Investment Fund,NL,Asset Management,2022-09-30,2022-09-30,LOW,Lukas Meier
+KYC-2090,Stratos Partners SAS,Financial Services Entity,FR,Professional Services,2025-02-24,2025-02-24,LOW,Sofia Rossi
+KYC-2091,Stratos Investments SAS,Operating Company,FR,Professional Services,2020-03-27,2026-06-06,LOW,Lukas Meier
+KYC-2092,Halcyon Investments Ltd,Holding Company,VG,Energy,2024-07-29,2024-07-29,MEDIUM,Marc Dubois
+KYC-2093,Pinecrest Industries S.a r.l.,Operating Company,LU,Energy,2023-01-11,2026-03-12,HIGH,Anna Keller
+KYC-2094,Lumen Partners Pte Ltd,Investment Fund,SG,Asset Management,2025-06-11,2025-09-12,HIGH,Elena Petrova
+KYC-2095,Lumen Estates FZE,Operating Company,AE,Asset Management,2020-04-15,2025-01-11,MEDIUM,Anna Keller
+KYC-2096,Verity Holdings FZE,Investment Fund,AE,Asset Management,2024-09-10,2024-09-10,MEDIUM,Elena Petrova
+KYC-2097,Nordhaven Investments S.a r.l.,Holding Company,LU,Technology,2025-01-28,2025-01-28,LOW,Sofia Rossi
+KYC-2098,Aurelia Trading Ltd,Trust / Foundation,VG,Real Estate,2020-06-08,2025-11-11,HIGH,Elena Petrova
+KYC-2099,Solstice Holdings Ltd,Operating Company,KY,Real Estate,2025-07-10,2025-07-10,MEDIUM,Anna Keller
+KYC-2100,Alder Technologies Ltd,Operating Company,GB,Art & Antiquities,2026-01-29,2026-01-29,MEDIUM,Elena Petrova
+KYC-2101,Nordhaven Holdings Ltd,Operating Company,VG,Crypto / Digital Assets,2019-11-03,2026-06-25,HIGH,Elena Petrova
+KYC-2102,Ardent Trading S.a r.l.,Holding Company,LU,Professional Services,2024-09-09,2024-09-09,LOW,Jan de Vries
+KYC-2103,Meridian Holdings S.a r.l.,Operating Company,LU,Real Estate,2024-02-25,2024-02-25,LOW,Lukas Meier
+KYC-2104,Pinecrest Investments S.a r.l.,Operating Company,LU,Energy,2022-05-29,2022-05-29,LOW,Lukas Meier
+KYC-2105,Aurelia Advisory S.a r.l.,Holding Company,LU,Precious Metals Trading,2023-12-17,2023-12-17,MEDIUM,Anna Keller
+KYC-2106,Corvus Logistics Ltd,Trust / Foundation,KY,Crypto / Digital Assets,2023-09-08,2025-12-06,HIGH,Sofia Rossi
+KYC-2107,Alder Industries Ltd,Holding Company,MT,Manufacturing,2024-01-23,2024-01-23,LOW,Jan de Vries
+KYC-2108,Verity Trading Ltd,Trust / Foundation,MT,Crypto / Digital Assets,2022-04-12,2026-04-28,HIGH,Lukas Meier
+KYC-2109,Aurelia Estates S.a r.l.,Holding Company,LU,Manufacturing,2023-06-13,2023-06-13,LOW,Sofia Rossi
+KYC-2110,Halcyon Industries S.a r.l.,Holding Company,LU,Asset Management,2020-01-23,2023-10-22,LOW,Jan de Vries
+KYC-2111,Pinecrest Trading Ltd,Financial Services Entity,GB,Professional Services,2021-11-02,2021-11-02,LOW,Sofia Rossi
+KYC-2112,Alder Holdings S.a r.l.,Operating Company,LU,Art & Antiquities,2023-07-05,2024-06-17,MEDIUM,Jan de Vries
+KYC-2113,Lumen Partners Ltd,Holding Company,GB,Manufacturing,2021-02-01,2021-06-17,LOW,Marc Dubois
+KYC-2114,Lumen Trading S.a r.l.,Financial Services Entity,LU,Professional Services,2020-02-29,2022-01-23,LOW,Elena Petrova
+KYC-2115,Corvus Advisory Ltd,Financial Services Entity,MT,Asset Management,2021-10-29,2021-10-29,LOW,Anna Keller
+KYC-2116,Verity Holdings AG,Operating Company,CH,Healthcare,2021-06-16,2022-04-02,LOW,Marc Dubois
+KYC-2117,Pinecrest Technologies GmbH,Trust / Foundation,DE,Technology,2023-12-13,2023-12-13,MEDIUM,Marc Dubois
+KYC-2118,Solstice Partners S.a r.l.,Holding Company,LU,Crypto / Digital Assets,2023-02-04,2024-12-09,MEDIUM,Sofia Rossi
+KYC-2119,Meridian Capital Ltd,Investment Fund,GB,Asset Management,2019-11-16,2023-06-21,LOW,Sofia Rossi
+KYC-2120,Alder Logistics Ltd,Operating Company,VG,Real Estate,2020-03-24,2024-08-20,MEDIUM,Anna Keller
